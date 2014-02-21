@@ -1,3 +1,3 @@
-platform :ios
+platform :ios, '6.0'
 
-pod 'JSONKit', '~> 1.5'
+pod 'JSONKit'
