@@ -25,6 +25,7 @@
 		3092402918B6AC6A002A981C /* TPMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3092402718B6AC6A002A981C /* TPMasterViewController.m */; };
 		3092402E18B6AC78002A981C /* TPScrollingCell_iPhone.m in Sources */ = {isa = PBXBuildFile; fileRef = 3092402B18B6AC78002A981C /* TPScrollingCell_iPhone.m */; };
 		3092402F18B6AC78002A981C /* TPUIViewController_iPhone.m in Sources */ = {isa = PBXBuildFile; fileRef = 3092402D18B6AC78002A981C /* TPUIViewController_iPhone.m */; };
+		3092403118B6B407002A981C /* yoyo.json in Resources */ = {isa = PBXBuildFile; fileRef = 3092403018B6B407002A981C /* yoyo.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		3092402B18B6AC78002A981C /* TPScrollingCell_iPhone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPScrollingCell_iPhone.m; sourceTree = "<group>"; };
 		3092402C18B6AC78002A981C /* TPUIViewController_iPhone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPUIViewController_iPhone.h; sourceTree = "<group>"; };
 		3092402D18B6AC78002A981C /* TPUIViewController_iPhone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPUIViewController_iPhone.m; sourceTree = "<group>"; };
+		3092403018B6B407002A981C /* yoyo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = yoyo.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 		30554EF818BBC10300834F71 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3092403018B6B407002A981C /* yoyo.json */,
 				30554EF918BBC10300834F71 /* TPScrollViewTutorial-Info.plist */,
 				30554EFA18BBC10300834F71 /* InfoPlist.strings */,
 				30554EFD18BBC10300834F71 /* main.m */,
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30554F0818BBC10300834F71 /* Main_iPad.storyboard in Resources */,
+				3092403118B6B407002A981C /* yoyo.json in Resources */,
 				30554F0D18BBC10300834F71 /* Images.xcassets in Resources */,
 				30554F0518BBC10300834F71 /* Main_iPhone.storyboard in Resources */,
 				30554EFC18BBC10300834F71 /* InfoPlist.strings in Resources */,

@@ -1,0 +1,52 @@
+{
+    "yoyo" : "SY-001 Stealth Ogre",
+    "manufacturer" : "Sturm Panzer",
+    "country" : "Japan",
+    "year" : 2013,
+    "diameter" : 57.37,
+    "weight" : 68.7,
+    "colors" : [{
+                "name":"Royal Purple",
+                "hex":"#6843a0"
+                }],
+    "material" : {
+        "body": "Aluminum 6061",
+        "rims": "Brass"
+    },
+    "image" : {
+        "small": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/265x265/9df78eab33525d08d6e5fb8d27136e95/s/t/stealthogre11.jpg",
+        "medium": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/265x265/9df78eab33525d08d6e5fb8d27136e95/s/t/stealthogre11.jpg",
+        "large": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/265x265/9df78eab33525d08d6e5fb8d27136e95/s/t/stealthogre11.jpg"
+    },
+    "bearing" : "C",
+    "response" : "recessed pad",
+    "competitions" : "",
+    "player" : "",
+    "description" : "With \"wicked\" as a core theme, the Stealth Ogre is the first release from Sturm Panzer.  <br><br>In 2013, the 21st century's new champion yo-yo league \"Yo-Yo Fist\" entered its 6th season, and team Sturm Panzer was ready with the Stealth Ogre, a new yo-yo designed by Kasumi Hino, of defense contracter Marshall Industry.  \n\nAt its core of the design, Kasumi integrated the control system dubbed \"bio spinner,\" which is meant to create a direct connection between your brain and the yo-yo, giving you superhuman control during play! Once the Stealth Ogre hit the scene, Kasumi's team turned its luck around, and the Stealth Ogre was the engine that fueled its comeback."
+},
+{
+    "yoyo" : "SY-002 Leo Sniper",
+    "manufacturer" : "Sturm Panzer",
+    "country" : "Japan",
+    "year" : 2013,
+    "diameter" : 55.95,
+    "weight" : 66.5,
+    "colors" : [{
+                "name":"Royal Blue",
+                "hex":"#2f4ea9"
+                }],
+    "material" : {
+        "body": "Aluminum 6061",
+        "rims": "Brass"
+    },
+    "image" : {
+        "small": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/265x265/9df78eab33525d08d6e5fb8d27136e95/l/e/leosniper11.jpg",
+        "medium": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/600x600/9df78eab33525d08d6e5fb8d27136e95/l/e/leosniper11.jpg",
+        "large": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/600x600/9df78eab33525d08d6e5fb8d27136e95/l/e/leosniper11.jpg"
+    },
+    "bearing" : "D",
+    "response" : "Recessed Pad",
+    "competitions" : "",
+    "player" : "Kyoshiro Aoi",
+    "description" : "The SY-002 is the yo-yo used by Sturm Panzer protagonist, Kyoshiro Aoi.  \n\nThe 21st century's new form of combat: Yo-Yo Fist. Since the Stealth Ogre incident in 2013, team Sturm Panzer was disqualified from the league, and won't be present at the competition in 2014. But the dissolved team has turned their sights on a comeback in 2015.  \n\nSixteen year old prodigy Kyoshiro Aoi was scouted by defense contractor Marshall Industry, and given their new prototype, the Leo Sniper. As his teammates, his schoolmate Reita Sugo and Kasumi's old schoolmate Gouki Hiura were chosen."
+}
