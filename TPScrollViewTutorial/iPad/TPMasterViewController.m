@@ -120,6 +120,8 @@
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) {
+        //TODO: this is simply passing a date.
+        //I need to build a yoyo object, or pass the JSON-based object (NSDictionary???)
         NSDate *object = _objects[indexPath.row];
         self.detailViewController.detailItem = object;
     }

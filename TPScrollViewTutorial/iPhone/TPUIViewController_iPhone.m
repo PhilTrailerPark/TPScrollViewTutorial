@@ -8,11 +8,14 @@
 
 #import "TPUIViewController_iPhone.h"
 #import "TPScrollingCell_iPhone.h"
+#import "TPYBase.h"
+#import "TPYYoyo.h"
 
 static NSString * cellIdentifier = @"CellIdentifier";
 
 @interface TPUIViewController_iPhone () <TPScrollingCellDelegate, UIScrollViewDelegate>
 
+@property (strong) TPYBase *yoyoBase;
 @end
 
 @implementation TPUIViewController_iPhone
@@ -36,7 +39,49 @@ static NSString * cellIdentifier = @"CellIdentifier";
     self.scrollView.contentSize = CGSizeMake(2 * self.view.frame.size.width, self.view.frame.size.height);
     self.scrollView.delegate = self;
     self.scrollView.bounces = NO;
+    
+    if (isDataLocal) {
+        [self loadLocalJSON];
+    } else {
+        [self loadOnlineJSON];
+    }
 
+}
+
+- (void) loadLocalJSON {
+    NSString* filepath = [[NSBundle mainBundle]pathForResource:@"yoyo" ofType:@"json"];
+    
+    //NSData *data = [NSData dataWithContentsOfFile:filepath];
+    
+    NSString *jsonString = [[NSString alloc] initWithContentsOfFile:filepath encoding:NSUTF8StringEncoding error:nil];
+    
+    self.yoyoBase = [[TPYBase alloc] initWithDictionary:[jsonString objectFromJSONString]];
+    
+    [self.collectionView reloadData];
+}
+
+- (void) loadOnlineJSON {
+    NSString *weatherUrl = [NSString stringWithFormat:@"%@weather.php?format=json", BaseURLString];
+    NSURL *url = [NSURL URLWithString:weatherUrl];
+    NSURLRequest *request = [NSURLRequest requestWithURL:url];
+    
+    AFHTTPRequestOperation *operation = [[AFHTTPRequestOperation alloc]initWithRequest:request];
+    
+    operation.responseSerializer = [AFJSONResponseSerializer serializer];
+    
+    [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
+        //NSLog(@"%@", responseObject);
+        //self.yoyoBase = (TPYBase *)responseObject;
+        self.yoyoBase =[[TPYBase alloc] initWithDictionary:responseObject];
+        //self.title = @"JSON Retrived";
+        [self.collectionView reloadData];
+    } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+        UIAlertView *av = [[UIAlertView alloc] initWithTitle:@"Error Retrieving YoYos" message:[NSString stringWithFormat:@"%@", error] delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil];
+        
+        [av show];
+    }];
+    
+    [operation start];
 }
 
 - (void)didReceiveMemoryWarning
@@ -48,7 +93,20 @@ static NSString * cellIdentifier = @"CellIdentifier";
 #pragma mark -
 #pragma mark UICollectionViewDataSource
 - (NSInteger) collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section {
-    return 20;
+    if(!self.yoyoBase) return 0;
+    
+    //TPYYoyo *yoyos = [self.yoyoBase.yoyo objectAtIndex:0];
+    
+    switch ( [self.yoyoBase.yoyo count] ) {
+        case 0:{
+            return 1;
+        }
+        default:
+            return [self.yoyoBase.yoyo count];
+    }
+    
+    return 0;
+
 }
 - (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath {
     TPScrollingCell_iPhone *cell = [collectionView dequeueReusableCellWithReuseIdentifier:cellIdentifier forIndexPath:indexPath];

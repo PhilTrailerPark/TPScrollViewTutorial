@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E3B5A8B4-D7C8-4B54-8A02-3965E55B9F3B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TPScrollViewTutorial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>94BD4D29-1DF6-497F-97C5-B5AE1063BF7D</key>
+		<string>ssh://github.com/PhilTrailerPark/TPScrollViewTutorial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TPScrollViewTutorial.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>94BD4D29-1DF6-497F-97C5-B5AE1063BF7D</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/PhilTrailerPark/TPScrollViewTutorial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>94BD4D29-1DF6-497F-97C5-B5AE1063BF7D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>94BD4D29-1DF6-497F-97C5-B5AE1063BF7D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TPScrollViewTutorial</string>
+		</dict>
+	</array>
+</dict>
+</plist>
