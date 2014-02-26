@@ -9,10 +9,15 @@
 #import "TPMasterViewController.h"
 
 #import "TPDetailViewController.h"
+#import "TPYBase.h"
+#import "TPYYoyo.h"
+#import "TPYImage.h"
+#import "UIImageView+AFNetworking.h"
 
-@interface TPMasterViewController () {
-    NSMutableArray *_objects;
-}
+@interface TPMasterViewController ()
+    @property (strong, nonatomic) TPYBase *yoyoBase;
+    //NSMutableArray *_objects;
+
 @end
 
 @implementation TPMasterViewController
@@ -35,6 +40,45 @@
     UIBarButtonItem *addButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(insertNewObject:)];
     self.navigationItem.rightBarButtonItem = addButton;
     self.detailViewController = (TPDetailViewController *)[[self.splitViewController.viewControllers lastObject] topViewController];
+    
+    if (isDataLocal) {
+        [self loadLocalJSON];
+    } else {
+        [self loadOnlineJSON];
+    }
+}
+
+- (void) loadLocalJSON {
+    NSString* filepath = [[NSBundle mainBundle]pathForResource:@"yoyo" ofType:@"json"];
+    
+    NSString *jsonString = [[NSString alloc] initWithContentsOfFile:filepath encoding:NSUTF8StringEncoding error:nil];
+    
+    self.yoyoBase = [[TPYBase alloc] initWithDictionary:[jsonString objectFromJSONString]];
+    
+    [self.tableView reloadData];
+}
+
+- (void) loadOnlineJSON {
+    NSString *weatherUrl = [NSString stringWithFormat:@"%@popcorn/yoyo.json", BaseURLString];
+    NSURL *url = [NSURL URLWithString:weatherUrl];
+    NSURLRequest *request = [NSURLRequest requestWithURL:url];
+    
+    AFHTTPRequestOperation *operation = [[AFHTTPRequestOperation alloc]initWithRequest:request];
+    
+    operation.responseSerializer = [AFJSONResponseSerializer serializer];
+    
+    [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
+        
+        self.yoyoBase = [[TPYBase alloc] initWithDictionary:responseObject];
+        
+        [self.tableView reloadData];
+    } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+        UIAlertView *av = [[UIAlertView alloc] initWithTitle:@"Error Retrieving YoYos" message:[NSString stringWithFormat:@"%@", error] delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil];
+        
+        [av show];
+    }];
+    
+    [operation start];
 }
 
 - (void)didReceiveMemoryWarning
@@ -45,12 +89,15 @@
 
 - (void)insertNewObject:(id)sender
 {
+    return;
+    /*
     if (!_objects) {
         _objects = [[NSMutableArray alloc] init];
     }
     [_objects insertObject:[NSDate date] atIndex:0];
     NSIndexPath *indexPath = [NSIndexPath indexPathForRow:0 inSection:0];
     [self.tableView insertRowsAtIndexPaths:@[indexPath] withRowAnimation:UITableViewRowAnimationAutomatic];
+     */
 }
 
 #pragma mark - Table View
@@ -62,7 +109,17 @@
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
-    return _objects.count;
+    if(!self.yoyoBase) return 0;
+    
+    switch ( [self.yoyoBase.yoyo count] ) {
+        case 0:{
+            return 1;
+        }
+        default:
+            return [self.yoyoBase.yoyo count];
+    }
+    
+    return 0;
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
@@ -70,17 +127,19 @@
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"Cell" forIndexPath:indexPath];
 
     UIImageView *imageView = (UIImageView*)[cell.contentView viewWithTag:3];
-    //UIImageView *imageView = cell.imageView;
     UIImage *image = [UIImage imageNamed:@"leosniper"];
     [imageView setImage:image];
     
+    TPYYoyo *yoyo = (TPYYoyo *)[self.yoyoBase.yoyo objectAtIndex:indexPath.row];
+    TPYImage *yoyoImage = (TPYImage *)yoyo.image;
+    [imageView setImageWithURL:[NSURL URLWithString:yoyoImage.small]
+                   placeholderImage:[UIImage imageNamed:@"yoyop2.png"]];
+    
     
     UILabel *title = (UILabel*)[cell.contentView viewWithTag:1];
-    title.text = @"Leo Sniper";
+    title.text = yoyo.name;
     UILabel *subtitle = (UILabel*)[cell.contentView viewWithTag:2];
-    subtitle.text = @"by Sturm Panzer";
-    
-    
+    subtitle.text = yoyo.manufacturer;
     
     return cell;
 }
@@ -93,12 +152,14 @@
 
 - (void)tableView:(UITableView *)tableView commitEditingStyle:(UITableViewCellEditingStyle)editingStyle forRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    /*
     if (editingStyle == UITableViewCellEditingStyleDelete) {
         [_objects removeObjectAtIndex:indexPath.row];
         [tableView deleteRowsAtIndexPaths:@[indexPath] withRowAnimation:UITableViewRowAnimationFade];
     } else if (editingStyle == UITableViewCellEditingStyleInsert) {
         // Create a new instance of the appropriate class, insert it into the array, and add a new row to the table view.
     }
+     */
 }
 
 /*
@@ -120,10 +181,8 @@
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) {
-        //TODO: this is simply passing a date.
-        //I need to build a yoyo object, or pass the JSON-based object (NSDictionary???)
-        NSDate *object = _objects[indexPath.row];
-        self.detailViewController.detailItem = object;
+        TPYYoyo *yoyo = (TPYYoyo *)[self.yoyoBase.yoyo objectAtIndex:indexPath.row];
+        self.detailViewController.detailItem = yoyo;
     }
 }
 
@@ -131,8 +190,10 @@
 {
     if ([[segue identifier] isEqualToString:@"showDetail"]) {
         NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];
-        NSDate *object = _objects[indexPath.row];
-        [[segue destinationViewController] setDetailItem:object];
+        //NSDate *object = _objects[indexPath.row];
+        
+        TPYYoyo *yoyo = (TPYYoyo *)[self.yoyoBase.yoyo objectAtIndex:indexPath.row];
+        [[segue destinationViewController] setDetailItem:yoyo];
     }
 }
 

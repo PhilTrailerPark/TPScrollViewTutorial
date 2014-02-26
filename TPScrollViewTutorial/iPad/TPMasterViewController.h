@@ -13,5 +13,6 @@
 @interface TPMasterViewController : UITableViewController
 
 @property (strong, nonatomic) TPDetailViewController *detailViewController;
+@property (strong, nonatomic) IBOutlet UITableView *tableView;
 
 @end

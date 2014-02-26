@@ -7,6 +7,10 @@
 //
 
 #import "TPDetailViewController.h"
+#import "TPYBase.h"
+#import "TPYYoyo.h"
+#import "TPYImage.h"
+#import "UIImageView+WebCache.h"
 
 @interface TPDetailViewController ()
 @property (strong, nonatomic) UIPopoverController *masterPopoverController;
@@ -36,12 +40,14 @@
     // Update the user interface for the detail item.
 
     if (self.detailItem) {
+        TPYYoyo *yoyo = (TPYYoyo *)self.detailItem;
         
-        UIImage *image = [UIImage imageNamed:@"leosniper"];
-        [self.imageView setImage:image];
-        self.titleLabel.text = @"Leo Sniper";
-        self.subtitleLabel.text = @"by Sturm Panzer";
-        self.textView.text = @"The SY-002 is the yo-yo used by Sturm Panzer protagonist, Kyoshiro Aoi.\n\"The 21st century's new form of combat: Yo-Yo Fist. Since the Stealth Ogre incident in 2013, team Sturm Panzer was disqualified from the league, and won't be present at the competition in 2014. But the dissolved team has turned their sights on a comeback in 2015.";
+        TPYImage *yoyoImage = (TPYImage *)yoyo.image;
+        [self.imageView setImageWithURL:[NSURL URLWithString:yoyoImage.large]
+                  placeholderImage:[UIImage imageNamed:@"yoyop2.png"]];
+        self.titleLabel.text = yoyo.name;
+        self.subtitleLabel.text = yoyo.manufacturer;
+        self.textView.text = yoyo.yoyoDescription;
     }
 }
 

@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-static BOOL isDataLocal = NO;
+static BOOL isDataLocal = YES;
 static NSString *const BaseURLString = @"http://voiceovervinnie.com/";
 
 

@@ -122,9 +122,10 @@
     _colorView.frame = [_scrollView convertRect:bounds fromView:contentView];
     
     _imageView.frame = CGRectMake(5, 5, 70, 70);
-    _title.frame = CGRectMake(80, 10, 200, 30);
-    _title.font = [UIFont ]
-    _subtitle.frame = CGRectMake(80, 50, 200, 20);
+    _title.frame = CGRectMake(85, 15, 200, 30);
+    [_title setFont:[UIFont fontWithName:@"HelveticaNeue" size:28]];
+    _subtitle.frame = CGRectMake(85, 45, 200, 20);
+    [_title setFont:[UIFont fontWithName:@"HelveticaNeue" size:20]];
 }
 
 @end

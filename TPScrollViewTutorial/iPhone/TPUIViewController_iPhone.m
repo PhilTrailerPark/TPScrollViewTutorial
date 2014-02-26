@@ -11,7 +11,7 @@
 #import "TPYBase.h"
 #import "TPYYoyo.h"
 #import "TPYImage.h"
-#import "UIImageView+WebCache.h"
+#import "UIImageView+AFNetworking.h"
 
 static NSString * cellIdentifier = @"CellIdentifier";
 
@@ -53,8 +53,6 @@ static NSString * cellIdentifier = @"CellIdentifier";
 - (void) loadLocalJSON {
     NSString* filepath = [[NSBundle mainBundle]pathForResource:@"yoyo" ofType:@"json"];
     
-    //NSData *data = [NSData dataWithContentsOfFile:filepath];
-    
     NSString *jsonString = [[NSString alloc] initWithContentsOfFile:filepath encoding:NSUTF8StringEncoding error:nil];
     
     self.yoyoBase = [[TPYBase alloc] initWithDictionary:[jsonString objectFromJSONString]];
@@ -72,8 +70,6 @@ static NSString * cellIdentifier = @"CellIdentifier";
     operation.responseSerializer = [AFJSONResponseSerializer serializer];
     
     [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
-        //NSLog(@"%@", responseObject);
-        //self.yoyoBase = (TPYBase *)responseObject;
         self.yoyoBase = [[TPYBase alloc] initWithDictionary:responseObject];
         
         NSLog(@"JSON Retrived");
@@ -139,8 +135,11 @@ static NSString * cellIdentifier = @"CellIdentifier";
     [self.scrollView setScrollEnabled:NO];
     
     self.detailView.backgroundColor = cell.color;
-    [_detailImage setImage:cell.imageView.image];
     TPYYoyo *yoyo = (TPYYoyo *)cell.dataObject;
+    TPYImage *yoyoImage = (TPYImage *)yoyo.image;
+    [_detailImage setImage:cell.imageView.image];
+    [_detailImage setImageWithURL:[NSURL URLWithString:yoyoImage.large]
+                   placeholderImage:[UIImage imageNamed:@"yoyop2.png"]];
     
     _detailTitle.text = [NSString stringWithFormat:@"%@ %@", yoyo.name, yoyo.manufacturer];
     _detailText.text = yoyo.yoyoDescription;
