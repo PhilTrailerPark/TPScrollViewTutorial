@@ -85,6 +85,8 @@
     if (self) {
         _colorView = [[UIView alloc] init];
         _scrollView = [[UIScrollView alloc] init];
+        _title = [[UILabel alloc] init];
+        _subtitle = [[UILabel alloc] init];
         _imageView = [[UIImageView alloc] init];
         
         _scrollView.delegate = self;
@@ -93,6 +95,8 @@
         
         [self.contentView addSubview:_scrollView];
         [_scrollView addSubview:_colorView];
+        [_scrollView addSubview:_title];
+        [_scrollView addSubview:_subtitle];
         [_scrollView addSubview:_imageView];
     }
     return self;
@@ -118,6 +122,9 @@
     _colorView.frame = [_scrollView convertRect:bounds fromView:contentView];
     
     _imageView.frame = CGRectMake(5, 5, 70, 70);
+    _title.frame = CGRectMake(80, 10, 200, 30);
+    _title.font = [UIFont ]
+    _subtitle.frame = CGRectMake(80, 50, 200, 20);
 }
 
 @end

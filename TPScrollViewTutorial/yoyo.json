@@ -1,5 +1,31 @@
 {
     "yoyo": [{
+             "name": "Prestige",
+             "manufacturer": "General Yo",
+             "country": "U.S.A.",
+             "year": 2013,
+             "diameter": 56.43,
+             "weight": 66.0,
+             "colors": [{
+                        "name":"Blue Love",
+                        "hex":"#6843a0"
+                        }],
+             "material": {
+             "body": "Aluminum 6061",
+             "rims": ""
+             },
+             "image": {
+             "small": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/600x600/9df78eab33525d08d6e5fb8d27136e95/p/r/prestige12_1.jpg",
+             "medium": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/600x600/9df78eab33525d08d6e5fb8d27136e95/p/r/prestige12_1.jpg",
+             "large": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/600x600/9df78eab33525d08d6e5fb8d27136e95/p/r/prestige12_1.jpg"
+             },
+             "bearing": "C",
+             "response": "recessed pad",
+             "competitions": "",
+             "player": "",
+             "description": "The Prestige sets the General-Yo lineup apart from all the imitators.\n\nThe Prestige is a yo-yo that shows both its heritage and revelations, firmly asserting itself as a new standard for General-Yo. The shape and side face maintain General-Yo’s traditional looks, but the profile is where the innovation lies.\n\nThe soft step-straight profile gives a smooth, luxurious feeling during play. For such a sharp profile, when compared to other contemporary yo-yos in the same size category, the Prestige comes in slightly lighter, making it a superbly speedy throw.\n\nCheck out the high quality PV below to get a feeling of where General-Yo is coming from. The Prestige comes with a String Lab Type X string. Enjoy!"
+             },
+             {
              "name": "SY-001 Stealth Ogre",
              "manufacturer": "Sturm Panzer",
              "country": "Japan",
@@ -23,7 +49,7 @@
              "response": "recessed pad",
              "competitions": "",
              "player": "",
-             "description": "With \"wicked\" as a core theme, the Stealth Ogre is the first release from Sturm Panzer.  <br><br>In 2013, the 21st century's new champion yo-yo league \"Yo-Yo Fist\" entered its 6th season, and team Sturm Panzer was ready with the Stealth Ogre, a new yo-yo designed by Kasumi Hino, of defense contracter Marshall Industry.  \n\nAt its core of the design, Kasumi integrated the control system dubbed \"bio spinner,\" which is meant to create a direct connection between your brain and the yo-yo, giving you superhuman control during play! Once the Stealth Ogre hit the scene, Kasumi's team turned its luck around, and the Stealth Ogre was the engine that fueled its comeback."
+             "description": "With \"wicked\" as a core theme, the Stealth Ogre is the first release from Sturm Panzer.  \n\nIn 2013, the 21st century's new champion yo-yo league \"Yo-Yo Fist\" entered its 6th season, and team Sturm Panzer was ready with the Stealth Ogre, a new yo-yo designed by Kasumi Hino, of defense contracter Marshall Industry.  \n\nAt its core of the design, Kasumi integrated the control system dubbed \"bio spinner,\" which is meant to create a direct connection between your brain and the yo-yo, giving you superhuman control during play! Once the Stealth Ogre hit the scene, Kasumi's team turned its luck around, and the Stealth Ogre was the engine that fueled its comeback."
              },
              {
              "name": "SY-002 Leo Sniper",

@@ -16,7 +16,11 @@
 
 @property (strong, nonatomic) UIScrollView * scrollView;
 @property (strong, nonatomic) UIView * colorView;
-@property (strong, nonatomic) IBOutlet UIImageView *imageView;
+@property (strong, nonatomic) UIImageView *imageView;
+@property (strong, nonatomic) UILabel *title;
+@property (strong, nonatomic) UILabel *subtitle;
+@property (assign, nonatomic) id<NSObject> dataObject;
+
 @end
 
 @protocol TPScrollingCellDelegate <NSObject>

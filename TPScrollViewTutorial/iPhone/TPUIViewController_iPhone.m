@@ -10,6 +10,8 @@
 #import "TPScrollingCell_iPhone.h"
 #import "TPYBase.h"
 #import "TPYYoyo.h"
+#import "TPYImage.h"
+#import "UIImageView+WebCache.h"
 
 static NSString * cellIdentifier = @"CellIdentifier";
 
@@ -61,7 +63,7 @@ static NSString * cellIdentifier = @"CellIdentifier";
 }
 
 - (void) loadOnlineJSON {
-    NSString *weatherUrl = [NSString stringWithFormat:@"%@weather.php?format=json", BaseURLString];
+    NSString *weatherUrl = [NSString stringWithFormat:@"%@popcorn/yoyo.json", BaseURLString];
     NSURL *url = [NSURL URLWithString:weatherUrl];
     NSURLRequest *request = [NSURLRequest requestWithURL:url];
     
@@ -72,8 +74,9 @@ static NSString * cellIdentifier = @"CellIdentifier";
     [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
         //NSLog(@"%@", responseObject);
         //self.yoyoBase = (TPYBase *)responseObject;
-        self.yoyoBase =[[TPYBase alloc] initWithDictionary:responseObject];
-        //self.title = @"JSON Retrived";
+        self.yoyoBase = [[TPYBase alloc] initWithDictionary:responseObject];
+        
+        NSLog(@"JSON Retrived");
         [self.collectionView reloadData];
     } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
         UIAlertView *av = [[UIAlertView alloc] initWithTitle:@"Error Retrieving YoYos" message:[NSString stringWithFormat:@"%@", error] delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil];
@@ -115,8 +118,17 @@ static NSString * cellIdentifier = @"CellIdentifier";
     cell.color = [UIColor colorWithRed:215.0/255.0 green:215.0/255.0 blue:215.0/255.0 alpha:1];
     cell.delegate = self;
     
-    UIImage *image = [UIImage imageNamed:@"leosniper"];
-    [cell.imageView setImage:image];
+    //UIImage *image = [UIImage imageNamed:@"leosniper"];
+    //[cell.imageView setImage:image];
+    TPYYoyo *yoyo = (TPYYoyo *)[self.yoyoBase.yoyo objectAtIndex:indexPath.row];
+    TPYImage *yoyoImage = (TPYImage *)yoyo.image;
+    [cell.imageView setImageWithURL:[NSURL URLWithString:yoyoImage.small]
+                   placeholderImage:[UIImage imageNamed:@"yoyop2.png"]];
+    
+    cell.dataObject = yoyo;
+    
+    cell.title.text = yoyo.name;
+    cell.subtitle.text = yoyo.manufacturer;
     
     return cell;
 }
@@ -128,8 +140,10 @@ static NSString * cellIdentifier = @"CellIdentifier";
     
     self.detailView.backgroundColor = cell.color;
     [_detailImage setImage:cell.imageView.image];
-    _detailTitle.text = @"Sturm Panzer Leo Sniper";
-    _detailText.text = @"The SY-002 is the yo-yo used by Sturm Panzer protagonist, Kyoshiro Aoi.\n\"The 21st century's new form of combat: Yo-Yo Fist. Since the Stealth Ogre incident in 2013, team Sturm Panzer was disqualified from the league, and won't be present at the competition in 2014. But the dissolved team has turned their sights on a comeback in 2015.";
+    TPYYoyo *yoyo = (TPYYoyo *)cell.dataObject;
+    
+    _detailTitle.text = [NSString stringWithFormat:@"%@ %@", yoyo.name, yoyo.manufacturer];
+    _detailText.text = yoyo.yoyoDescription;
 }
 
 - (void)scrollingCell:(TPScrollingCell_iPhone *)cell didChangePullOffset:(CGFloat)offset {

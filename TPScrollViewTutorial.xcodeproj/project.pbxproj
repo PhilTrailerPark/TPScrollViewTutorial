@@ -217,7 +217,7 @@
 		30C74D2B18B6AADA00959092 /* iPad */ = {
 			isa = PBXGroup;
 			children = (
-				30554F0318BBC10300834F71 /* Main_iPhone.storyboard */,
+				30554F0618BBC10300834F71 /* Main_iPad.storyboard */,
 				3092402418B6AC6A002A981C /* TPDetailViewController.h */,
 				3092402518B6AC6A002A981C /* TPDetailViewController.m */,
 				3092402618B6AC6A002A981C /* TPMasterViewController.h */,
@@ -229,7 +229,7 @@
 		30C74D2C18B6AADA00959092 /* iPhone */ = {
 			isa = PBXGroup;
 			children = (
-				30554F0618BBC10300834F71 /* Main_iPad.storyboard */,
+				30554F0318BBC10300834F71 /* Main_iPhone.storyboard */,
 				3092402A18B6AC78002A981C /* TPScrollingCell_iPhone.h */,
 				3092402B18B6AC78002A981C /* TPScrollingCell_iPhone.m */,
 				3092402C18B6AC78002A981C /* TPUIViewController_iPhone.h */,
