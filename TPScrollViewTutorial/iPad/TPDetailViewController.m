@@ -10,7 +10,7 @@
 #import "TPYBase.h"
 #import "TPYYoyo.h"
 #import "TPYImage.h"
-#import "UIImageView+WebCache.h"
+#import "UIImageView+AFNetworking.h"
 
 @interface TPDetailViewController ()
 @property (strong, nonatomic) UIPopoverController *masterPopoverController;
