@@ -13,6 +13,8 @@
 #import "TPYYoyo.h"
 #import "TPYImage.h"
 #import "UIImageView+AFNetworking.h"
+#import "AFHTTPRequestOperation.h"
+#import "JSONKit.h"
 
 @interface TPMasterViewController ()
     @property (strong, nonatomic) TPYBase *yoyoBase;
@@ -59,8 +61,9 @@
 }
 
 - (void) loadOnlineJSON {
-    NSString *weatherUrl = [NSString stringWithFormat:@"%@popcorn/yoyo.json", BaseURLString];
-    NSURL *url = [NSURL URLWithString:weatherUrl];
+    
+    NSString *yoyoUrl = [NSString stringWithFormat:@"%@popcorn/yoyo.json", BaseURLString];
+    NSURL *url = [NSURL URLWithString:yoyoUrl];
     NSURLRequest *request = [NSURLRequest requestWithURL:url];
     
     AFHTTPRequestOperation *operation = [[AFHTTPRequestOperation alloc]initWithRequest:request];
@@ -79,6 +82,7 @@
     }];
     
     [operation start];
+    
 }
 
 - (void)didReceiveMemoryWarning

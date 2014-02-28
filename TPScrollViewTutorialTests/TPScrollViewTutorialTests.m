@@ -26,9 +26,11 @@
     [super tearDown];
 }
 
-- (void)testExample
+
+- (void)testJSON
 {
-    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+    
+    //XCTAssertTrue([tpmvc loadOnlineJSON], @"Checking to see if JSON is grabbed from: %@", BaseURLString);
 }
 
 @end

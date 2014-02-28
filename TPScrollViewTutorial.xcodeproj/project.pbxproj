@@ -26,11 +26,12 @@
 		3092402E18B6AC78002A981C /* TPScrollingCell_iPhone.m in Sources */ = {isa = PBXBuildFile; fileRef = 3092402B18B6AC78002A981C /* TPScrollingCell_iPhone.m */; };
 		3092402F18B6AC78002A981C /* TPUIViewController_iPhone.m in Sources */ = {isa = PBXBuildFile; fileRef = 3092402D18B6AC78002A981C /* TPUIViewController_iPhone.m */; };
 		3092403118B6B407002A981C /* yoyo.json in Resources */ = {isa = PBXBuildFile; fileRef = 3092403018B6B407002A981C /* yoyo.json */; };
-		30C5113418BC1F79004E4275 /* TPYBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 30C5112B18BC1F79004E4275 /* TPYBase.m */; };
-		30C5113518BC1F79004E4275 /* TPYColors.m in Sources */ = {isa = PBXBuildFile; fileRef = 30C5112D18BC1F79004E4275 /* TPYColors.m */; };
-		30C5113618BC1F79004E4275 /* TPYImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 30C5112F18BC1F79004E4275 /* TPYImage.m */; };
-		30C5113718BC1F79004E4275 /* TPYMaterial.m in Sources */ = {isa = PBXBuildFile; fileRef = 30C5113118BC1F79004E4275 /* TPYMaterial.m */; };
-		30C5113818BC1F79004E4275 /* TPYYoyo.m in Sources */ = {isa = PBXBuildFile; fileRef = 30C5113318BC1F79004E4275 /* TPYYoyo.m */; };
+		30CDCD2218C012BF0060F438 /* TPYBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 30CDCD1918C012BF0060F438 /* TPYBase.m */; };
+		30CDCD2318C012BF0060F438 /* TPYColors.m in Sources */ = {isa = PBXBuildFile; fileRef = 30CDCD1B18C012BF0060F438 /* TPYColors.m */; };
+		30CDCD2418C012BF0060F438 /* TPYImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 30CDCD1D18C012BF0060F438 /* TPYImage.m */; };
+		30CDCD2518C012BF0060F438 /* TPYMaterial.m in Sources */ = {isa = PBXBuildFile; fileRef = 30CDCD1F18C012BF0060F438 /* TPYMaterial.m */; };
+		30CDCD2618C012BF0060F438 /* TPYYoyo.m in Sources */ = {isa = PBXBuildFile; fileRef = 30CDCD2118C012BF0060F438 /* TPYYoyo.m */; };
+		30CDCD2B18C018B50060F438 /* TPJSONArrayNetworkRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 30CDCD2A18C018B50060F438 /* TPJSONArrayNetworkRequest.m */; };
 		59EAA8FFD2594632B270871E /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F0266057AEB44F7F8CAB734D /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -72,17 +73,19 @@
 		3092402C18B6AC78002A981C /* TPUIViewController_iPhone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPUIViewController_iPhone.h; sourceTree = "<group>"; };
 		3092402D18B6AC78002A981C /* TPUIViewController_iPhone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPUIViewController_iPhone.m; sourceTree = "<group>"; };
 		3092403018B6B407002A981C /* yoyo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = yoyo.json; sourceTree = "<group>"; };
-		30C5112A18BC1F79004E4275 /* TPYBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPYBase.h; sourceTree = "<group>"; };
-		30C5112B18BC1F79004E4275 /* TPYBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYBase.m; sourceTree = "<group>"; };
-		30C5112C18BC1F79004E4275 /* TPYColors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPYColors.h; sourceTree = "<group>"; };
-		30C5112D18BC1F79004E4275 /* TPYColors.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYColors.m; sourceTree = "<group>"; };
-		30C5112E18BC1F79004E4275 /* TPYImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPYImage.h; sourceTree = "<group>"; };
-		30C5112F18BC1F79004E4275 /* TPYImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYImage.m; sourceTree = "<group>"; };
-		30C5113018BC1F79004E4275 /* TPYMaterial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPYMaterial.h; sourceTree = "<group>"; };
-		30C5113118BC1F79004E4275 /* TPYMaterial.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYMaterial.m; sourceTree = "<group>"; };
-		30C5113218BC1F79004E4275 /* TPYYoyo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPYYoyo.h; sourceTree = "<group>"; };
-		30C5113318BC1F79004E4275 /* TPYYoyo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYYoyo.m; sourceTree = "<group>"; };
 		30C5113918BC28CD004E4275 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
+		30CDCD1818C012BF0060F438 /* TPYBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPYBase.h; sourceTree = "<group>"; };
+		30CDCD1918C012BF0060F438 /* TPYBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYBase.m; sourceTree = "<group>"; };
+		30CDCD1A18C012BF0060F438 /* TPYColors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPYColors.h; sourceTree = "<group>"; };
+		30CDCD1B18C012BF0060F438 /* TPYColors.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYColors.m; sourceTree = "<group>"; };
+		30CDCD1C18C012BF0060F438 /* TPYImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPYImage.h; sourceTree = "<group>"; };
+		30CDCD1D18C012BF0060F438 /* TPYImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYImage.m; sourceTree = "<group>"; };
+		30CDCD1E18C012BF0060F438 /* TPYMaterial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPYMaterial.h; sourceTree = "<group>"; };
+		30CDCD1F18C012BF0060F438 /* TPYMaterial.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYMaterial.m; sourceTree = "<group>"; };
+		30CDCD2018C012BF0060F438 /* TPYYoyo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPYYoyo.h; sourceTree = "<group>"; };
+		30CDCD2118C012BF0060F438 /* TPYYoyo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYYoyo.m; sourceTree = "<group>"; };
+		30CDCD2918C018B50060F438 /* TPJSONArrayNetworkRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPJSONArrayNetworkRequest.h; sourceTree = "<group>"; };
+		30CDCD2A18C018B50060F438 /* TPJSONArrayNetworkRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPJSONArrayNetworkRequest.m; sourceTree = "<group>"; };
 		AC126C306F2A42A886BC59B1 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		F0266057AEB44F7F8CAB734D /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -150,9 +153,9 @@
 				30C5113918BC28CD004E4275 /* Constants.h */,
 				30554F0018BBC10300834F71 /* TPAppDelegate.h */,
 				30554F0118BBC10300834F71 /* TPAppDelegate.m */,
+				30CDCD1518C012730060F438 /* networking */,
 				30C74D2B18B6AADA00959092 /* iPad */,
 				30C74D2C18B6AADA00959092 /* iPhone */,
-				30C5112818BC1F79004E4275 /* data */,
 				30554F0C18BBC10300834F71 /* Images.xcassets */,
 				30554EF818BBC10300834F71 /* Supporting Files */,
 			);
@@ -189,31 +192,6 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		30C5112818BC1F79004E4275 /* data */ = {
-			isa = PBXGroup;
-			children = (
-				30C5112918BC1F79004E4275 /* Yoyo */,
-			);
-			path = data;
-			sourceTree = "<group>";
-		};
-		30C5112918BC1F79004E4275 /* Yoyo */ = {
-			isa = PBXGroup;
-			children = (
-				30C5112A18BC1F79004E4275 /* TPYBase.h */,
-				30C5112B18BC1F79004E4275 /* TPYBase.m */,
-				30C5112C18BC1F79004E4275 /* TPYColors.h */,
-				30C5112D18BC1F79004E4275 /* TPYColors.m */,
-				30C5112E18BC1F79004E4275 /* TPYImage.h */,
-				30C5112F18BC1F79004E4275 /* TPYImage.m */,
-				30C5113018BC1F79004E4275 /* TPYMaterial.h */,
-				30C5113118BC1F79004E4275 /* TPYMaterial.m */,
-				30C5113218BC1F79004E4275 /* TPYYoyo.h */,
-				30C5113318BC1F79004E4275 /* TPYYoyo.m */,
-			);
-			path = Yoyo;
-			sourceTree = "<group>";
-		};
 		30C74D2B18B6AADA00959092 /* iPad */ = {
 			isa = PBXGroup;
 			children = (
@@ -236,6 +214,49 @@
 				3092402D18B6AC78002A981C /* TPUIViewController_iPhone.m */,
 			);
 			path = iPhone;
+			sourceTree = "<group>";
+		};
+		30CDCD1518C012730060F438 /* networking */ = {
+			isa = PBXGroup;
+			children = (
+				30CDCD2718C016F80060F438 /* management */,
+				30CDCD1618C012BF0060F438 /* JSONObjects */,
+			);
+			path = networking;
+			sourceTree = "<group>";
+		};
+		30CDCD1618C012BF0060F438 /* JSONObjects */ = {
+			isa = PBXGroup;
+			children = (
+				30CDCD1718C012BF0060F438 /* Yoyo */,
+			);
+			path = JSONObjects;
+			sourceTree = "<group>";
+		};
+		30CDCD1718C012BF0060F438 /* Yoyo */ = {
+			isa = PBXGroup;
+			children = (
+				30CDCD1818C012BF0060F438 /* TPYBase.h */,
+				30CDCD1918C012BF0060F438 /* TPYBase.m */,
+				30CDCD1A18C012BF0060F438 /* TPYColors.h */,
+				30CDCD1B18C012BF0060F438 /* TPYColors.m */,
+				30CDCD1C18C012BF0060F438 /* TPYImage.h */,
+				30CDCD1D18C012BF0060F438 /* TPYImage.m */,
+				30CDCD1E18C012BF0060F438 /* TPYMaterial.h */,
+				30CDCD1F18C012BF0060F438 /* TPYMaterial.m */,
+				30CDCD2018C012BF0060F438 /* TPYYoyo.h */,
+				30CDCD2118C012BF0060F438 /* TPYYoyo.m */,
+			);
+			path = Yoyo;
+			sourceTree = "<group>";
+		};
+		30CDCD2718C016F80060F438 /* management */ = {
+			isa = PBXGroup;
+			children = (
+				30CDCD2918C018B50060F438 /* TPJSONArrayNetworkRequest.h */,
+				30CDCD2A18C018B50060F438 /* TPJSONArrayNetworkRequest.m */,
+			);
+			path = management;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -373,16 +394,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				30C5113718BC1F79004E4275 /* TPYMaterial.m in Sources */,
+				30CDCD2518C012BF0060F438 /* TPYMaterial.m in Sources */,
 				30554F0218BBC10300834F71 /* TPAppDelegate.m in Sources */,
-				30C5113418BC1F79004E4275 /* TPYBase.m in Sources */,
+				30CDCD2218C012BF0060F438 /* TPYBase.m in Sources */,
 				3092402F18B6AC78002A981C /* TPUIViewController_iPhone.m in Sources */,
-				30C5113818BC1F79004E4275 /* TPYYoyo.m in Sources */,
+				30CDCD2618C012BF0060F438 /* TPYYoyo.m in Sources */,
 				3092402E18B6AC78002A981C /* TPScrollingCell_iPhone.m in Sources */,
 				3092402918B6AC6A002A981C /* TPMasterViewController.m in Sources */,
-				30C5113518BC1F79004E4275 /* TPYColors.m in Sources */,
+				30CDCD2318C012BF0060F438 /* TPYColors.m in Sources */,
 				30554EFE18BBC10300834F71 /* main.m in Sources */,
-				30C5113618BC1F79004E4275 /* TPYImage.m in Sources */,
+				30CDCD2418C012BF0060F438 /* TPYImage.m in Sources */,
+				30CDCD2B18C018B50060F438 /* TPJSONArrayNetworkRequest.m in Sources */,
 				3092402818B6AC6A002A981C /* TPDetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

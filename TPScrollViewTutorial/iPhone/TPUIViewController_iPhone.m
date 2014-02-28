@@ -12,6 +12,8 @@
 #import "TPYYoyo.h"
 #import "TPYImage.h"
 #import "UIImageView+AFNetworking.h"
+#import "AFHTTPRequestOperation.h"
+#import "JSONKit.h"
 
 static NSString * cellIdentifier = @"CellIdentifier";
 
@@ -61,8 +63,8 @@ static NSString * cellIdentifier = @"CellIdentifier";
 }
 
 - (void) loadOnlineJSON {
-    NSString *weatherUrl = [NSString stringWithFormat:@"%@popcorn/yoyo.json", BaseURLString];
-    NSURL *url = [NSURL URLWithString:weatherUrl];
+    NSString *yoyoUrl = [NSString stringWithFormat:@"%@popcorn/yoyo.json", BaseURLString];
+    NSURL *url = [NSURL URLWithString:yoyoUrl];
     NSURLRequest *request = [NSURLRequest requestWithURL:url];
     
     AFHTTPRequestOperation *operation = [[AFHTTPRequestOperation alloc]initWithRequest:request];
@@ -105,8 +107,8 @@ static NSString * cellIdentifier = @"CellIdentifier";
     }
     
     return 0;
-
 }
+
 - (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath {
     TPScrollingCell_iPhone *cell = [collectionView dequeueReusableCellWithReuseIdentifier:cellIdentifier forIndexPath:indexPath];
     
