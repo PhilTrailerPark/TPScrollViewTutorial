@@ -15,6 +15,7 @@
 #import "UIImageView+AFNetworking.h"
 #import "AFHTTPRequestOperation.h"
 #import "JSONKit.h"
+#import "TPJSONArrayNetworkRequest.h"
 
 @interface TPMasterViewController ()
     @property (strong, nonatomic) TPYBase *yoyoBase;
@@ -51,38 +52,20 @@
 }
 
 - (void) loadLocalJSON {
-    NSString* filepath = [[NSBundle mainBundle]pathForResource:@"yoyo" ofType:@"json"];
-    
-    NSString *jsonString = [[NSString alloc] initWithContentsOfFile:filepath encoding:NSUTF8StringEncoding error:nil];
-    
-    self.yoyoBase = [[TPYBase alloc] initWithDictionary:[jsonString objectFromJSONString]];
-    
-    [self.tableView reloadData];
+    TPJSONArrayNetworkRequest *tpjson = [TPJSONArrayNetworkRequest sharedInstance];
+    [tpjson loadLocalJSON:^(NSString *jsonString) {
+        self.yoyoBase = [[TPYBase alloc] initWithDictionary:[jsonString objectFromJSONString]];
+        [self.tableView reloadData];
+    }];
 }
 
-- (void) loadOnlineJSON {
-    
-    NSString *yoyoUrl = [NSString stringWithFormat:@"%@popcorn/yoyo.json", BaseURLString];
-    NSURL *url = [NSURL URLWithString:yoyoUrl];
-    NSURLRequest *request = [NSURLRequest requestWithURL:url];
-    
-    AFHTTPRequestOperation *operation = [[AFHTTPRequestOperation alloc]initWithRequest:request];
-    
-    operation.responseSerializer = [AFJSONResponseSerializer serializer];
-    
-    [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
-        
-        self.yoyoBase = [[TPYBase alloc] initWithDictionary:responseObject];
-        
+- (void) loadOnlineJSON
+{
+    TPJSONArrayNetworkRequest *tpjson = [TPJSONArrayNetworkRequest sharedInstance];
+    [tpjson loadOnlineJSON:^(NSObject *jsonData) {
+        self.yoyoBase = [[TPYBase alloc] initWithDictionary:(NSDictionary*)jsonData];
         [self.tableView reloadData];
-    } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
-        UIAlertView *av = [[UIAlertView alloc] initWithTitle:@"Error Retrieving YoYos" message:[NSString stringWithFormat:@"%@", error] delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil];
-        
-        [av show];
     }];
-    
-    [operation start];
-    
 }
 
 - (void)didReceiveMemoryWarning
