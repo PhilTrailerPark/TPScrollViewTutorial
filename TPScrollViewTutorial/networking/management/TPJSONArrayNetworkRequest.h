@@ -12,4 +12,6 @@
 
 + (TPJSONArrayNetworkRequest *) sharedInstance;
 
+- (void) loadLocalJSON:(void (^)(NSString* JSONString))handler;
+- (void) loadOnlineJSON:(void (^)(NSObject* JSONData))handler;
 @end

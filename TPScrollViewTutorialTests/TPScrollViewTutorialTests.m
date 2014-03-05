@@ -7,6 +7,9 @@
 //
 
 #import <XCTest/XCTest.h>
+#import "TPJSONArrayNetworkRequest.h"
+#import "TPJSONArrayNetworkRequest.h"
+#include <objc/runtime.h>;
 
 @interface TPScrollViewTutorialTests : XCTestCase
 
@@ -29,8 +32,16 @@
 
 - (void)testJSON
 {
+    TPJSONArrayNetworkRequest *tpjson = [TPJSONArrayNetworkRequest sharedInstance];
+    [tpjson loadOnlineJSON:^(NSObject *jsonData) {
+    //[tpjson loadOnlineJSON:^NSObject *(NSObject *jsonData) {
+        NSLog(@".........JSONData %@", jsonData);
+        XCTAssertTrue(object_setClass(jsonData, [NSError class]), @"Checking to see if JSON is grabbed from: %@", BaseURLString);
+    }];
     
-    //XCTAssertTrue([tpmvc loadOnlineJSON], @"Checking to see if JSON is grabbed from: %@", BaseURLString);
+    
+    NSLog(@"Done");
+    
 }
 
 @end

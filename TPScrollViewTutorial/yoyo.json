@@ -1,7 +1,7 @@
 {
     "yoyo": [{
              "name": "Prestige",
-             "manufacturer": "General-Yo",
+             "manufacturer": "General Yo",
              "country": "U.S.A.",
              "year": 2013,
              "diameter": 56.43,
@@ -23,7 +23,7 @@
              "response": "recessed pad",
              "competitions": "",
              "player": "",
-             "description": "The Prestige sets the General-Yo lineup apart from all the imitators.\n\nThe Prestige is a yo-yo that shows both its heritage and revelations, firmly asserting itself as a new standard for General-Yo. The shape and side face maintain General-Yo’s traditional looks, but the profile is where the innovation lies.\n\nThe soft step-straight profile gives a smooth, luxurious feeling during play. For such a sharp profile, when compared to other contemporary yo-yos in the same size category, the Prestige comes in slightly lighter, making it a superbly speedy throw.\n\nCheck out the high quality PV below to get a feeling of where General-Yo is coming from. The Prestige comes with a String Lab Type X string. Enjoy!"
+             "description": "The Prestige sets the General-Yo lineup apart from all the imitators.\n\nThe Prestige is a yo-yo that shows both its heritage and revelations, firmly asserting itself as a new standard for General-Yo. The shape and side face maintain General-Yoâ€™s traditional looks, but the profile is where the innovation lies.\n\nThe soft step-straight profile gives a smooth, luxurious feeling during play. For such a sharp profile, when compared to other contemporary yo-yos in the same size category, the Prestige comes in slightly lighter, making it a superbly speedy throw.\n\nCheck out the high quality PV below to get a feeling of where General-Yo is coming from. The Prestige comes with a String Lab Type X string. Enjoy!"
              },
              {
              "name": "SY-001 Stealth Ogre",
@@ -37,8 +37,8 @@
                         "hex":"#6843a0"
                         }],
              "material": {
-                "body": "Aluminum 6061",
-                "rims": "Brass"
+             "body": "Aluminum 6061",
+             "rims": "Brass"
              },
              "image": {
              "small": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/265x265/9df78eab33525d08d6e5fb8d27136e95/s/t/stealthogre11.jpg",
@@ -63,8 +63,8 @@
                         "hex":"#2f4ea9"
                         }],
              "material": {
-                "body": "Aluminum 6061",
-                "rims": "Brass"
+             "body": "Aluminum 6061",
+             "rims": "Brass"
              },
              "image": {
              "small": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/265x265/9df78eab33525d08d6e5fb8d27136e95/l/e/leosniper11.jpg",
@@ -76,187 +76,5 @@
              "competitions": "",
              "player": "Kyoshiro Aoi",
              "description": "The SY-002 is the yo-yo used by Sturm Panzer protagonist, Kyoshiro Aoi.  \n\nThe 21st century's new form of combat: Yo-Yo Fist. Since the Stealth Ogre incident in 2013, team Sturm Panzer was disqualified from the league, and won't be present at the competition in 2014. But the dissolved team has turned their sights on a comeback in 2015.  \n\nSixteen year old prodigy Kyoshiro Aoi was scouted by defense contractor Marshall Industry, and given their new prototype, the Leo Sniper. As his teammates, his schoolmate Reita Sugo and Kasumi's old schoolmate Gouki Hiura were chosen."
-             },
-             {
-             "name": "Free King",
-             "manufacturer": "Aoda",
-             "country": "China",
-             "year": 2009,
-             "diameter": 50,
-             "weight": 52,
-             "colors": [{
-                        "name":"Purple Black",
-                        "hex":"#000000"
-                        }],
-             "material": {
-                "body": "Aluminum 6061",
-                "rims": ""
-             },
-             "image": {
-             "small": "http://i00.i.aliimg.com/img/pb/605/769/442/442769605_452.jpg",
-             "medium": "http://i00.i.aliimg.com/img/pb/605/769/442/442769605_452.jpg",
-             "large": "http://i00.i.aliimg.com/img/pb/605/769/442/442769605_452.jpg"
-             },
-             "bearing": "C",
-             "response": "Recessed Pad",
-             "competitions": "",
-             "player": "",
-             "description": "The Free King is a undersized yo-yo, now I've never really said what I consider to be a 'normal' sized yo-yo, I consider any thing between 53mm and 59mm to be normal, anything out side of that range is either under or oversized.  The Free King has a wing profile and has a lot more traditional shape than some of their others like the Follow Wind or Immortal Star.  It uses the same thin silicone pad response system, which is common across most of Aoda's range and it can be siliconed if preferred.  It also has pointed hubs for matador play, these are quite sharp and effective if you like this style of play.  The hubs are also quite small so they don't get in the way when you do thumb grinds.  The finish is glossy so it's not the best yo-yo for finger grinds, it's okay and you can do them but it will slow down quite quickly.  Like the response it shares the same axle design as the other yo-yo's across their range although this one seems to be of the wider type, which is found in the Follow Wind.  Like their others it suffers from 'loose axle' syndrome, so have some Teflon Tape ready to patch things up when it starts getting loose."
-             },
-             {
-             "name": "Space Monkey",
-             "manufacturer": "Zeekio",
-             "country": "U.S.A.",
-             "year": 2009,
-             "diameter": 54,
-             "weight": 67,
-             "colors": [{
-                        "name":"Purple",
-                        "hex":"#000000"
-                        }],
-             "material": {
-                "body": "Aluminum 6061",
-                "rims": ""
-             },
-             "image": {
-             "small": "http://thumbs3.ebaystatic.com/d/l225/m/myO8jgLezsKUkRuzK4c9OIQ.jpg",
-             "medium": "http://thumbs3.ebaystatic.com/d/l225/m/myO8jgLezsKUkRuzK4c9OIQ.jpg",
-             "large": "http://thumbs3.ebaystatic.com/d/l225/m/myO8jgLezsKUkRuzK4c9OIQ.jpg"
-             },
-             "bearing": "C",
-             "response": "Recessed Pad",
-             "competitions": "",
-             "player": "",
-             "description": "Space Monkey has an aerodynamic feel to it that is unmatched with its dead smooth tricks. The Space Monkey is a solid 67 grams but feels light in the air. With a slick dramatic V shape, this yoyo fits well in the hands of all of this planet’s humans.\n\nBlacker than a gravity well, this all-black Space Monkey Yo-Yo offers dazzling performance but as cold a presentation as the depths of space itself. Hypnotize your friends as you combo from one trick to the next all while showcasing one of the handsomest monkeys you’ve ever seen."
-             },
-             {
-             "name": "Juggernaut",
-             "manufacturer": "Dif-E-Yo",
-             "country": "U.S.A.",
-             "year": 9999,
-             "diameter": 53.31,
-             "weight": 67.5,
-             "colors": [{
-                        "name":"Black",
-                        "hex":"#000000"
-                        }],
-             "material": {
-                "body": "Aluminum 6061",
-                "rims": ""
-             },
-             "image": {
-             "small": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/600x600/9df78eab33525d08d6e5fb8d27136e95/j/n/jn11.jpg",
-             "medium": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/600x600/9df78eab33525d08d6e5fb8d27136e95/j/n/jn11.jpg",
-             "large": "http://lghttp.13060.nexcesscdn.net/80647E/magento/media/catalog/product/cache/3/image/600x600/9df78eab33525d08d6e5fb8d27136e95/j/n/jn11.jpg"
-             },
-             "bearing": "C",
-             "response": "Recessed Pad",
-             "competitions": "",
-             "player": "",
-             "description": "Dif-E-Yo was one of the first manufacturers to produce high end aluminum yo-yos and really helped pioneer the way towards unresponsive play when they introduced their KonKave bearing. Missing in new yo-yo development action for some time now Dif-E-Yo is back and proudly presents their new flag ship model the JUGGERNAUT.\n\nAs you would expect the Juggernaut is a force to be reckoned with. From our first throw with this we immediately recognized the shape and weight distribution were dialed in to near perfection. The smoothness of this yo-yo matches some of the very best out there and it soars across the string with absolute ease.\n\nDif-E-Yo really knows how to finish off a yo-yo too. The Juggernaut is built to be played and comes stock with a Dif-E-Yo KonKave bearing and a hard coat annodization meaning it is slick and more durable. Laser engraved on both sides with the Juggernaut logo and text this yo-yo shows everyone else you mean business.\n\nNote: The Juggernaut comes stock with Dif Pads installed but also accepts flowable silicone."
-             },
-             {
-             "name": "Arctic Circle",
-             "manufacturer": "CLYW",
-             "country": "",
-             "year": 2009,
-             "diameter": 55,
-             "weight": 66.3,
-             "colors": [{
-                        "name":"",
-                        "hex":"#000000"
-                        }],
-             "material": {
-             "body": "Aluminum 6061",
-             "rims": ""
-             },
-             "image": {
-             "small": "https://yoyobestbuy.com/wp-content/uploads/Arctic-Circle-Camp-Caribou.jpg",
-             "medium": "https://yoyobestbuy.com/wp-content/uploads/Arctic-Circle-Camp-Caribou.jpg",
-             "large": "https://yoyobestbuy.com/wp-content/uploads/Arctic-Circle-Camp-Caribou.jpg"
-             },
-             "bearing": "C",
-             "response": "Recessed Pad",
-             "competitions": "",
-             "player": "",
-             "description": "The CLYW Arctic Circle has without a doubt been one of CLYW’s most prominent models and why wouldn’t it be with Zach Gormley dominating the 1A scene over the last year with incredible tricks, incredible freestyles and all power-packed into one incredible playing return-top! What we love about the Artic Circle is its slightly undersized shape which makes it nimble and fast for those beautifully flowing 1A tricks that Zach is well known for. The shape fits very well in your hand and it also utilizes the double weight ring technology that was developed by CLYW in the Chief."
-             },
-             {
-             "name": "Ricochet",
-             "manufacturer": "YoYoFactory",
-             "country": "China",
-             "year": 2009,
-             "diameter": 50,
-             "weight": 66.8,
-             "colors": [{
-                        "name":"Reentry Blue",
-                        "hex":"#000000"
-                        }],
-             "material": {
-             "body": "Titanium",
-             "rims": ""
-             },
-             "image": {
-             "small": "http://www.yoyofactory.com/wp-content/uploads/2013/03/Ricochet-YYF-10-11_27_2012.jpg",
-             "medium": "http://www.yoyofactory.com/wp-content/uploads/2013/03/Ricochet-YYF-10-11_27_2012.jpg",
-             "large": "http://www.yoyofactory.com/wp-content/uploads/2013/03/Ricochet-YYF-10-11_27_2012.jpg"
-             },
-             "bearing": "C",
-             "response": "Recessed Pad",
-             "competitions": "",
-             "player": "",
-             "description": "The all new Ricochet yo-yo is YoYoFactory’s first 100% Titanium yo-yo. The beautiful thing about titanium is that it is only 60% more dense than aluminum, but more than twice as strong./n/nThat means that the titanium Ricochet is stronger than any yo-yo we have made before while still having perfect weight and balance. Each Ricochet yo-yo is serial numbered from 1-500 and comes packaged in the brand new YoYoFactory plastic collectors box. Oh, and one more thing, titanium sparks when it hits another hard surface, so the Ricochet throws sparks when you walk the dog! That leaves one big question: Cherish it or spark it?"
-             },
-             {
-             "name": "DV888",
-             "manufacturer": "YoYoFactory",
-             "country": "China",
-             "year": 2009,
-             "diameter": 50,
-             "weight": 66,
-             "colors": [{
-                        "name":"Red",
-                        "hex":"#000000"
-                        }],
-             "material": {
-             "body": "Aluminum 6061",
-             "rims": ""
-             },
-             "image": {
-                "small": "http://www.amigra.pl/_var/gfx/44ac543e84f1564656032286d5649155.jpg",
-                "medium": "http://www.amigra.pl/_var/gfx/44ac543e84f1564656032286d5649155.jpg",
-                "large": "http://www.amigra.pl/_var/gfx/44ac543e84f1564656032286d5649155.jpg"
-             },
-             "bearing": "C",
-             "response": "Recessed Pad",
-             "competitions": "",
-             "player": "",
-             "description": "The YoYoFactory DV888 is the result of a long time goal: to make the world’s best performing modern yo-yo at a price that almost anyone can afford. In order to accomplish this goal, YoYoFactory transferred all of the patented technology from our Premium Line yo-yos into a very simple and comfortable design. The DV888 is composed of high grade 6061 aluminum for durable performance, a smooth anodized grinding surface, a large Central Bearing Co. SPEC Bearing, and the same silicone pad response system as our Premium Line yo-yos. Whether it is your first metal yo-yo or your go-to yo-yo for your next major performance, the DV888 will not disappoint!"
-             },
-             {
-             "name": "Rally",
-             "manufacturer": "One Drop",
-             "country": "U.S.A.",
-             "year": 2013,
-             "diameter": 58,
-             "weight": 67,
-             "colors": [{
-                        "name":"Clear Orange",
-                        "hex":"#000000"
-                        }],
-             "material": {
-                "body": "Plastic",
-                "rims": "Aluminum"
-             },
-             "image": {
-                "small": "https://yoyobestbuy.com/wp-content/uploads/One-Drop-Rally-Clear-Orange-Rings-2.jpg",
-                "medium": "https://yoyobestbuy.com/wp-content/uploads/One-Drop-Rally-Clear-Orange-Rings-2.jpg",
-                "large": "https://yoyobestbuy.com/wp-content/uploads/One-Drop-Rally-Clear-Orange-Rings-2.jpg"
-             },
-             "bearing": "C",
-             "response": "Recessed Flow",
-             "competitions": "",
-             "player": "",
-             "description": "Three years in the making: One Drop presents the Rally – a premium performance plastic yoyo made in the U.S.A./n/nWe set out to match the nostalgic feel of plastic with the performance of modern metal while maintaining our high quality standards and “made in the USA” ethos. The result is a wing shaped design based on the CODE 2 featuring a marbleized catch zone for superior grinds. The machined and anodized aluminum rings complete the weight distribution for long spins and the type of performance players have come to expect."
              }]
 }

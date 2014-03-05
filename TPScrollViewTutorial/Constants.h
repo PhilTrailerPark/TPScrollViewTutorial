@@ -10,5 +10,6 @@
 
 static BOOL isDataLocal = YES;
 static NSString *const BaseURLString = @"http://voiceovervinnie.com/";
+static NSString *const YoYoURLString = @"popcorn/yoyo.json";
 
 

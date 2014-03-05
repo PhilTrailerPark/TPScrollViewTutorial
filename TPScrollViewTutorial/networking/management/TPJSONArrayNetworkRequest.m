@@ -7,6 +7,9 @@
 //
 
 #import "TPJSONArrayNetworkRequest.h"
+#import "UIImageView+AFNetworking.h"
+#import "AFHTTPRequestOperation.h"
+#import "JSONKit.h"
 
 static TPJSONArrayNetworkRequest *instance;
 
@@ -21,19 +24,20 @@ static TPJSONArrayNetworkRequest *instance;
     return instance;
 }
 
-- (void) loadLocalJSON {
+- (void) loadLocalJSON:(void (^)(NSString* JSONString))handler
+{
     NSString* filepath = [[NSBundle mainBundle]pathForResource:@"yoyo" ofType:@"json"];
-    
     NSString *jsonString = [[NSString alloc] initWithContentsOfFile:filepath encoding:NSUTF8StringEncoding error:nil];
     
-    self.yoyoBase = [[TPYBase alloc] initWithDictionary:[jsonString objectFromJSONString]];
+    //TODO: verify the jsonString for valid JSON
+    if(handler)
+        handler(jsonString);
     
-    [self.tableView reloadData];
 }
 
-- (void) loadOnlineJSON {
-    
-    NSString *yoyoUrl = [NSString stringWithFormat:@"%@popcorn/yoyo.json", BaseURLString];
+- (void) loadOnlineJSON:(void (^)(NSObject* JSONData))handler
+{
+    NSString *yoyoUrl = [NSString stringWithFormat:@"%@%@", BaseURLString, YoYoURLString];
     NSURL *url = [NSURL URLWithString:yoyoUrl];
     NSURLRequest *request = [NSURLRequest requestWithURL:url];
     
@@ -42,18 +46,16 @@ static TPJSONArrayNetworkRequest *instance;
     operation.responseSerializer = [AFJSONResponseSerializer serializer];
     
     [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
+        //TODO: verify the jsonString for valid JSON
+        if(handler)
+            handler(responseObject);
         
-        self.yoyoBase = [[TPYBase alloc] initWithDictionary:responseObject];
-        
-        [self.tableView reloadData];
     } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
-        UIAlertView *av = [[UIAlertView alloc] initWithTitle:@"Error Retrieving YoYos" message:[NSString stringWithFormat:@"%@", error] delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil];
-        
-        [av show];
+        if(handler)
+            handler(error);
     }];
     
     [operation start];
-    
 }
 
 
