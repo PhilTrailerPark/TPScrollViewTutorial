@@ -1,0 +1,1277 @@
+TSSToolkitResources
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+cCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+cCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+cTouch /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/./SSToolkitResources.bundle
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png
+c0000000053222A040000000000000100
+t1394747908
+s256
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png
+c0000000053222A04000000000000015E
+t1394747908
+s350
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png
+c0000000053222A04000000000000036F
+t1394747908
+s879
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png
+c0000000053222A0400000000000004E0
+t1394747908
+s1248
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png
+c0000000053222A04000000000000027C
+t1394747908
+s636
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png
+c0000000053222A0400000000000003C9
+t1394747908
+s969
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png
+c0000000053222A040000000000000240
+t1394747908
+s576
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png
+c0000000053222A040000000000000525
+t1394747908
+s1317
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png
+c0000000053222A040000000000000248
+t1394747908
+s584
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png
+c0000000053222A04000000000000053E
+t1394747908
+s1342
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png
+c0000000053222A04000000000000008E
+t1394747908
+s142
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png
+c0000000053222A0400000000000000CC
+t1394747908
+s204
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png
+c0000000053222A04000000000000008E
+t1394747908
+s142
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png
+c0000000053222A0400000000000000E7
+t1394747908
+s231
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button-mini.png
+c0000000053222A04000000000000012C
+t1394747908
+s300
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png
+c0000000053222A0400000000000001FE
+t1394747908
+s510
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button.png
+c0000000053222A04000000000000015F
+t1394747908
+s351
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button@2x.png
+c0000000053222A040000000000000262
+t1394747908
+s610
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button-mini.png
+c0000000053222A04000000000000008E
+t1394747908
+s142
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png
+c0000000053222A0400000000000000FC
+t1394747908
+s252
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button.png
+c0000000053222A0400000000000000BB
+t1394747908
+s187
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button@2x.png
+c0000000053222A0400000000000000FD
+t1394747908
+s253
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button-mini.png
+c0000000053222A040000000000000094
+t1394747908
+s148
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png
+c0000000053222A0400000000000000ED
+t1394747908
+s237
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button.png
+c0000000053222A0400000000000000AE
+t1394747908
+s174
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button@2x.png
+c0000000053222A040000000000000104
+t1394747908
+s260
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/gray-star.png
+c0000000053222A040000000000000DC4
+t1394747908
+s3524
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/gray-star@2x.png
+c0000000053222A04000000000000118E
+t1394747908
+s4494
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-check.png
+c0000000053222A0400000000000001A1
+t1394747908
+s417
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-check@2x.png
+c0000000053222A040000000000000299
+t1394747908
+s665
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-x.png
+c0000000053222A0400000000000001BA
+t1394747908
+s442
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-x@2x.png
+c0000000053222A040000000000000310
+t1394747908
+s784
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/orange-star.png
+c0000000053222A040000000000000EB3
+t1394747908
+s3763
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/orange-star@2x.png
+c0000000053222A040000000000001456
+t1394747908
+s5206
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button-mini.png
+c0000000053222A040000000000000106
+t1394747908
+s262
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png
+c0000000053222A04000000000000020E
+t1394747908
+s526
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button.png
+c0000000053222A040000000000000175
+t1394747908
+s373
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button@2x.png
+c0000000053222A0400000000000002AE
+t1394747908
+s686
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button-mini.png
+c0000000053222A040000000000000116
+t1394747908
+s278
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png
+c0000000053222A0400000000000002A4
+t1394747908
+s676
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button.png
+c0000000053222A0400000000000001A2
+t1394747908
+s418
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button@2x.png
+c0000000053222A040000000000000317
+t1394747908
+s791
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button-mini.png
+c0000000053222A0400000000000000D2
+t1394747908
+s210
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png
+c0000000053222A040000000000000135
+t1394747908
+s309
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button.png
+c0000000053222A0400000000000000FC
+t1394747908
+s252
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button@2x.png
+c0000000053222A040000000000000170
+t1394747908
+s368
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+c0000000053222A040000000000000572
+t1394747908
+s1394
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings
+c0000000053222A040000000000000369
+t1394747908
+s873
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings
+c0000000053222A040000000000000352
+t1394747908
+s850
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings
+c0000000053222A040000000000000374
+t1394747908
+s884
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings
+c0000000053222A040000000000000361
+t1394747908
+s865
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings
+c0000000053222A040000000000000361
+t1394747908
+s865
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings
+c0000000053222A04000000000000035C
+t1394747908
+s860
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings
+c0000000053222A0400000000000005F0
+t1394747908
+s1520
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings
+c0000000053222A04000000000000033A
+t1394747908
+s826
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings
+c0000000053222A040000000000000370
+t1394747908
+s880
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings
+c0000000053222A040000000000000376
+t1394747908
+s886
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings
+c0000000053222A04000000000000035A
+t1394747908
+s858
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings
+c0000000053222A040000000000000361
+t1394747908
+s865
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings
+c0000000053222A040000000000000382
+t1394747908
+s898
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings
+c0000000053222A04000000000000036C
+t1394747908
+s876
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings
+c0000000053222A04000000000000035A
+t1394747908
+s858
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings
+c0000000053222A040000000000000358
+t1394747908
+s856
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle
+t1394747933
+s2210
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+t1394747932
+s1191
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+t1394747933
+s234
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+t1394747933
+s414
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+t1394747933
+s887
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+t1394747933
+s1144
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+t1394747933
+s482
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+t1394747933
+s824
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+t1394747933
+s623
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+t1394747933
+s1775
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+t1394747933
+s611
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+t1394747933
+s1623
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+t1394747933
+s183
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+t1394747933
+s340
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+t1394747933
+s182
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+t1394747933
+s346
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+t1394747933
+s466
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+t1394747933
+s871
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+t1394747933
+s575
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+t1394747933
+s1062
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+t1394747933
+s180
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+t1394747933
+s395
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+t1394747933
+s249
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+t1394747933
+s378
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+t1394747932
+s581
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+t1394747932
+s306
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+t1394747932
+s548
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+t1394747933
+s190
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+t1394747933
+s341
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+t1394747933
+s204
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+t1394747933
+s349
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+t1394747932
+s489
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+t1394747932
+s3526
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+t1394747932
+s4956
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+t1394747932
+s393
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+t1394747932
+s629
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+t1394747932
+s442
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+t1394747932
+s818
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+t1394747932
+s481
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+t1394747932
+s530
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+t1394747932
+s482
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+t1394747932
+s474
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+t1394747932
+s531
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+t1394747932
+s522
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+t1394747932
+s3704
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+t1394747932
+s5221
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+t1394747932
+s496
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+t1394747932
+s501
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+t1394747933
+s262
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+t1394747933
+s935
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+t1394747933
+s610
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+t1394747933
+s1223
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+t1394747932
+s608
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+t1394747933
+s278
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+t1394747933
+s1167
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+t1394747933
+s705
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+t1394747933
+s1371
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+t1394747933
+s275
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+t1394747933
+s394
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+t1394747933
+s330
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+t1394747933
+s456
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+t1394747932
+s597
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+t1394747932
+s515
+
+N/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+t1394747932
+s504
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescde93a9c61d2b841^a4a9669c61d2b841^---0#1#1#--18"Check dependencies36"125BF134-6EC0-433A-8508-58E8163B6989-
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png
+s416440733.003559
+e416440733.775461
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png
+xResources/Images/SSAddressBarTextFieldBackground.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png126"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png8c2c019d61d2b841^548dc69d61d2b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png0000000000000000^770"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png Resources/Images/SSAddressBarTextFieldBackground.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground.png36"67BF8874-5EB9-43CD-BC06-911DEECBB1D3-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png
+s416440733.003900
+e416440733.780956
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png
+xResources/Images/SSAddressBarTextFieldBackground@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png132"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png0630019d61d2b841^3cf6c79d61d2b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png0000000000000000^782"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png Resources/Images/SSAddressBarTextFieldBackground@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldBackground@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldBackground@2x.png36"0CA25745-A128-4AB1-B9C5-74DA2EA9812B-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png
+s416440733.004488
+e416440733.779800
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png
+xResources/Images/SSAddressBarTextFieldReload.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png118"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png3b52019d61d2b841^e4a1c79d61d2b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png0000000000000000^754"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload.png Resources/Images/SSAddressBarTextFieldReload.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload.png36"A19CA79C-9F6F-4A19-9F89-A8220AAFF784-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png
+s416440733.005182
+e416440733.780676
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png
+xResources/Images/SSAddressBarTextFieldReload@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png124"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png849a019d61d2b841^61dec79d61d2b841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png0000000000000000^766"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png Resources/Images/SSAddressBarTextFieldReload@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldReload@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldReload@2x.png36"14AF6E27-9895-4477-A6D5-50CBF9DC249C-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png
+s416440733.006484
+e416440733.778711
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png
+xResources/Images/SSAddressBarTextFieldStop.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png114"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png8ded019d61d2b841^c557c79d61d2b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png0000000000000000^746"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop.png Resources/Images/SSAddressBarTextFieldStop.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop.png36"F1150982-0F88-4533-BA9B-A9DC9CEF87DC-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png
+s416440733.007567
+e416440733.780294
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png
+xResources/Images/SSAddressBarTextFieldStop@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png120"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png4833029d61d2b841^edbac79d61d2b841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png0000000000000000^758"CopyPNGFile SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png Resources/Images/SSAddressBarTextFieldStop@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/SSAddressBarTextFieldStop@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/SSAddressBarTextFieldStop@2x.png36"1555CDA5-BF1B-49A5-BDFF-E70D64CA39D5-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png
+s416440733.008105
+e416440733.774854
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png
+xResources/Images/UISegmentBarButton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png100"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.pngc539029d61d2b841^5779c69d61d2b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png0000000000000000^718"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton.png Resources/Images/UISegmentBarButton.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButton.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton.png36"C7B93F11-785E-4DC7-A54D-9F6D70F8910D-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png
+s416440733.008444
+e416440733.779320
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png
+xResources/Images/UISegmentBarButton@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png106"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png4c51029d61d2b841^5e82c79d61d2b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png0000000000000000^730"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButton@2x.png Resources/Images/UISegmentBarButton@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButton@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButton@2x.png36"14FEE713-E7D1-415E-AEDC-1A606176A413-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png
+s416440733.775538
+e416440733.814448
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png
+xResources/Images/UISegmentBarButtonHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png122"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png45b7c69d61d2b841^f5a0d09d61d2b841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png0000000000000000^762"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png Resources/Images/UISegmentBarButtonHighlighted.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted.png36"6E7CE2C9-BD8C-462E-B329-C8878C4791BE-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png
+s416440733.775779
+e416440733.817602
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png
+xResources/Images/UISegmentBarButtonHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png128"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.pngdbbfc69d61d2b841^b35dd19d61d2b841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png0000000000000000^774"CopyPNGFile SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png Resources/Images/UISegmentBarButtonHighlighted@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarButtonHighlighted@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarButtonHighlighted@2x.png36"00D16976-2776-46FA-8F64-1AF40B795132-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png
+s416440733.778972
+e416440733.817323
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png
+xResources/Images/UISegmentBarDivider.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png102"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png1992c79d61d2b841^8940d19d61d2b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png0000000000000000^722"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider.png Resources/Images/UISegmentBarDivider.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDivider.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider.png36"B4E90F61-85DA-4ADA-A56A-C6E21F1281A0-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png
+s416440733.779532
+e416440733.817803
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png
+xResources/Images/UISegmentBarDivider@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png108"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png13bac79d61d2b841^527fd19d61d2b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png0000000000000000^734"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDivider@2x.png Resources/Images/UISegmentBarDivider@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDivider@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDivider@2x.png36"484B4AEB-74DD-4209-8566-CFB5D954456A-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png
+s416440733.780150
+e416440733.816808
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png
+xResources/Images/UISegmentBarDividerHighlighted.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png124"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png83dac79d61d2b841^3316d19d61d2b841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png0000000000000000^766"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png Resources/Images/UISegmentBarDividerHighlighted.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted.png36"7592EC81-54C4-4957-8100-D34EE819D32B-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png
+s416440733.781074
+e416440733.818563
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png
+xResources/Images/UISegmentBarDividerHighlighted@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png130"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.pnga932c89d61d2b841^c1c6d19d61d2b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png0000000000000000^778"CopyPNGFile SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png Resources/Images/UISegmentBarDividerHighlighted@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/UISegmentBarDividerHighlighted@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/UISegmentBarDividerHighlighted@2x.png36"78E80350-E56D-4AA7-B6D9-8FA57C2B5F31-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png
+s416440733.781432
+e416440733.819075
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png
+xResources/Images/action-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png9a41c89d61d2b841^1de4d19d61d2b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button-mini.png0000000000000000^718"CopyPNGFile SSToolkitResources.bundle/action-button-mini.png Resources/Images/action-button-mini.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button-mini.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini.png36"564DFD7F-FC51-4B9B-93FE-3C8B18614776-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png
+s416440733.781910
+e416440733.820869
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png
+xResources/Images/action-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.pngff58c89d61d2b841^8525d29d61d2b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png0000000000000000^730"CopyPNGFile SSToolkitResources.bundle/action-button-mini@2x.png Resources/Images/action-button-mini@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button-mini@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button-mini@2x.png36"9D9F1EF9-F21F-4819-87F3-D383A85FA9D7-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png
+s416440733.814723
+e416440733.888948
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png
+xResources/Images/action-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png90"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png9ba9d09d61d2b841^9eb5e39d61d2b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button.png0000000000000000^698"CopyPNGFile SSToolkitResources.bundle/action-button.png Resources/Images/action-button.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button.png36"D55E58F6-358D-43FA-934A-FD905301E808-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png
+s416440733.817076
+e416440733.890452
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png
+xResources/Images/action-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.pngf661d19d61d2b841^0036e49d61d2b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button@2x.png0000000000000000^710"CopyPNGFile SSToolkitResources.bundle/action-button@2x.png Resources/Images/action-button@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/action-button@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/action-button@2x.png36"A25BF170-4C10-46C8-8DFF-1CE39E769543-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png
+s416440733.817535
+e416440733.888468
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png
+xResources/Images/back-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png9370d19d61d2b841^a472e39d61d2b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button-mini.png0000000000000000^710"CopyPNGFile SSToolkitResources.bundle/back-button-mini.png Resources/Images/back-button-mini.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button-mini.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini.png36"9A4B5B65-A58C-4D7A-9408-DFC1FF3D83B7-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png
+s416440733.818211
+e416440733.890063
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png
+xResources/Images/back-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.pngab95d19d61d2b841^5b25e49d61d2b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png0000000000000000^722"CopyPNGFile SSToolkitResources.bundle/back-button-mini@2x.png Resources/Images/back-button-mini@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button-mini@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button-mini@2x.png36"32626457-0471-4B53-A5BC-3F84EA7ED89C-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png
+s416440733.818479
+e416440733.890012
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png
+xResources/Images/back-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png86"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png75c8d19d61d2b841^a62be49d61d2b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button.png0000000000000000^690"CopyPNGFile SSToolkitResources.bundle/back-button.png Resources/Images/back-button.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button.png36"691C563C-2CFE-4E55-85DA-37E2DD01CAE3-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png
+s416440733.819378
+e416440733.889925
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png
+xResources/Images/back-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png11e3d19d61d2b841^3317e49d61d2b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button@2x.png0000000000000000^702"CopyPNGFile SSToolkitResources.bundle/back-button@2x.png Resources/Images/back-button@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/back-button@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/back-button@2x.png36"88BBB9B0-8F43-4FD2-8AE2-1E90E30974B0-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png
+s416440733.819717
+e416440733.889791
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png
+xResources/Images/forward-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png102"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png6611d29d61d2b841^261ee49d61d2b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button-mini.png0000000000000000^722"CopyPNGFile SSToolkitResources.bundle/forward-button-mini.png Resources/Images/forward-button-mini.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button-mini.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini.png36"DBB70743-AEA0-4E31-BAE9-A52827F653A9-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png
+s416440733.821071
+e416440733.890113
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png
+xResources/Images/forward-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png108"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png3656d29d61d2b841^5e30e49d61d2b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png0000000000000000^734"CopyPNGFile SSToolkitResources.bundle/forward-button-mini@2x.png Resources/Images/forward-button-mini@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button-mini@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button-mini@2x.png36"CA16DE4E-978F-4EA6-9136-3A6F6ECFF0B4-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png
+s416440733.889982
+e416440733.930039
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png
+xResources/Images/forward-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png92"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png4b21e49d61d2b841^4818ee9d61d2b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button.png0000000000000000^702"CopyPNGFile SSToolkitResources.bundle/forward-button.png Resources/Images/forward-button.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button.png36"0749273D-C162-4A10-B220-3B09B38C3D9C-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png
+s416440733.890803
+e416440733.931357
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png
+xResources/Images/forward-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png98"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png0e2fe49d61d2b841^8b71ee9d61d2b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button@2x.png0000000000000000^714"CopyPNGFile SSToolkitResources.bundle/forward-button@2x.png Resources/Images/forward-button@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/forward-button@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/forward-button@2x.png36"A9E9671D-C298-46F4-9DCD-5277DAE3D39C-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png
+s416440732.495566
+e416440733.005771
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png
+xResources/Images/gray-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png82"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png200d7f9c61d2b841^ee7a019d61d2b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/gray-star.png0000000000000000^682"CopyPNGFile SSToolkitResources.bundle/gray-star.png Resources/Images/gray-star.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/gray-star.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/gray-star.png36"0DB19B5D-C061-4B81-8C4F-8F600A6C6F09-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png
+s416440732.496177
+e416440733.006468
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png
+xResources/Images/gray-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png88"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.pngb64b7f9c61d2b841^11c8019d61d2b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/gray-star@2x.png0000000000000000^694"CopyPNGFile SSToolkitResources.bundle/gray-star@2x.png Resources/Images/gray-star@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/gray-star@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/gray-star@2x.png36"71F97964-004F-4180-86F4-90AF59C9152C-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png
+s416440732.442383
+e416440733.003387
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png
+xResources/Images/hud-check.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png82"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png085a719c61d2b841^410b019d61d2b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-check.png0000000000000000^682"CopyPNGFile SSToolkitResources.bundle/hud-check.png Resources/Images/hud-check.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-check.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-check.png36"29993DB5-150D-4C46-82B7-55B244826BC7-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png
+s416440732.442698
+e416440733.002860
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png
+xResources/Images/hud-check@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png88"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.pngb16d719c61d2b841^e4bb009d61d2b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-check@2x.png0000000000000000^694"CopyPNGFile SSToolkitResources.bundle/hud-check@2x.png Resources/Images/hud-check@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-check@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-check@2x.png36"98B88B5E-A1D3-49E3-B136-70503445118C-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png
+s416440732.443102
+e416440733.003124
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png
+xResources/Images/hud-x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png74"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png6f80719c61d2b841^e7fc009d61d2b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-x.png0000000000000000^666"CopyPNGFile SSToolkitResources.bundle/hud-x.png Resources/Images/hud-x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-x.png36"566A80B0-7D00-46B6-A7B0-5FFF1C6868AC-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png
+s416440732.494378
+e416440733.004210
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png
+xResources/Images/hud-x@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png80"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png12da7e9c61d2b841^7f33019d61d2b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-x@2x.png0000000000000000^678"CopyPNGFile SSToolkitResources.bundle/hud-x@2x.png Resources/Images/hud-x@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/hud-x@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/hud-x@2x.png36"D35D7101-E775-46F7-A714-4CB7F9140109-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png
+s416440732.496765
+e416440733.006082
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png
+xResources/Images/orange-star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png86"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png3e767f9c61d2b841^3eb2019d61d2b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/orange-star.png0000000000000000^690"CopyPNGFile SSToolkitResources.bundle/orange-star.png Resources/Images/orange-star.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/orange-star.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/orange-star.png36"6DDE04BF-8710-43F1-B1EA-781332DD88D8-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png
+s416440732.497969
+e416440733.006680
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png
+xResources/Images/orange-star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png92"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.pnged9b7f9c61d2b841^4701029d61d2b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/orange-star@2x.png0000000000000000^702"CopyPNGFile SSToolkitResources.bundle/orange-star@2x.png Resources/Images/orange-star@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/orange-star@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/orange-star@2x.png36"C902AE2D-7978-4C1F-917C-DE00BE69BDD3-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png
+s416440733.891404
+e416440733.930404
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png
+xResources/Images/reload-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png5d53e49d61d2b841^e65cee9d61d2b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button-mini.png0000000000000000^718"CopyPNGFile SSToolkitResources.bundle/reload-button-mini.png Resources/Images/reload-button-mini.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button-mini.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini.png36"FBBC62E3-2A10-4D48-940A-5C02D699E330-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png
+s416440733.892010
+e416440733.932588
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png
+xResources/Images/reload-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png8c86e49d61d2b841^1903ef9d61d2b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png0000000000000000^730"CopyPNGFile SSToolkitResources.bundle/reload-button-mini@2x.png Resources/Images/reload-button-mini@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button-mini@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button-mini@2x.png36"E06D08B4-3DAC-4936-A3DA-9D597D4D572E-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png
+s416440733.892561
+e416440733.931823
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png
+xResources/Images/reload-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png90"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.pngebaae49d61d2b841^3ffeee9d61d2b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button.png0000000000000000^698"CopyPNGFile SSToolkitResources.bundle/reload-button.png Resources/Images/reload-button.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button.png36"76E4DB47-0086-4A55-A09E-88BFEAA5F29F-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png
+s416440733.893043
+e416440733.933365
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png
+xResources/Images/reload-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png0ccee49d61d2b841^ef1bef9d61d2b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button@2x.png0000000000000000^710"CopyPNGFile SSToolkitResources.bundle/reload-button@2x.png Resources/Images/reload-button@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/reload-button@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/reload-button@2x.png36"17082A5C-AB1D-4120-9ADC-32188472C3F2-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png
+s416440733.893552
+e416440733.930335
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png
+xResources/Images/safari-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png100"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png11e4e49d61d2b841^4b59ee9d61d2b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button-mini.png0000000000000000^718"CopyPNGFile SSToolkitResources.bundle/safari-button-mini.png Resources/Images/safari-button-mini.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button-mini.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini.png36"0075BDC2-375E-4E8F-838A-8CD4FD173D39-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png
+s416440733.894577
+e416440733.932969
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png
+xResources/Images/safari-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png106"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.pngd732e59d61d2b841^a016ef9d61d2b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png0000000000000000^730"CopyPNGFile SSToolkitResources.bundle/safari-button-mini@2x.png Resources/Images/safari-button-mini@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button-mini@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button-mini@2x.png36"62EAFA58-B24A-490F-94E8-F406546D8D28-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png
+s416440733.930256
+e416440733.964320
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png
+xResources/Images/safari-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png90"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png7444ee9d61d2b841^55def69d61d2b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button.png0000000000000000^698"CopyPNGFile SSToolkitResources.bundle/safari-button.png Resources/Images/safari-button.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button.png36"BEF229BD-514E-45F1-A86E-9A0EA040DCEF-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png
+s416440733.930731
+e416440733.961101
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png
+xResources/Images/safari-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png96"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png1761ee9d61d2b841^3d0ff69d61d2b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button@2x.png0000000000000000^710"CopyPNGFile SSToolkitResources.bundle/safari-button@2x.png Resources/Images/safari-button@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/safari-button@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/safari-button@2x.png36"183B2DFA-129B-450F-A5E9-5EC74D8FC921-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png
+s416440733.931428
+e416440733.963802
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png
+xResources/Images/stop-button-mini.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png96"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png728aee9d61d2b841^cbbbf69d61d2b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button-mini.png0000000000000000^710"CopyPNGFile SSToolkitResources.bundle/stop-button-mini.png Resources/Images/stop-button-mini.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button-mini.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini.png36"E3370A54-4CB2-44FD-A21D-13EED3D269CD-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png
+s416440733.931992
+e416440733.964165
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png
+xResources/Images/stop-button-mini@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png102"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png14afee9d61d2b841^3dd4f69d61d2b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png0000000000000000^722"CopyPNGFile SSToolkitResources.bundle/stop-button-mini@2x.png Resources/Images/stop-button-mini@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button-mini@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button-mini@2x.png36"0B48004D-3AC0-4B95-9931-B72AD2671A6C-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png
+s416440733.932497
+e416440733.962053
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png
+xResources/Images/stop-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png86"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png4febee9d61d2b841^9049f69d61d2b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button.png0000000000000000^690"CopyPNGFile SSToolkitResources.bundle/stop-button.png Resources/Images/stop-button.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button.png36"F7609861-EFD0-477B-88FA-87870FD113AC-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyPNGFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png
+s416440733.932980
+e416440733.965899
+r1
+xCopyPNGFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png
+xResources/Images/stop-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png92"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.pnga0ffee9d61d2b841^0246f79d61d2b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button@2x.png0000000000000000^702"CopyPNGFile SSToolkitResources.bundle/stop-button@2x.png Resources/Images/stop-button@2x.png    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/Images/stop-button@2x.png /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/stop-button@2x.png36"212970CA-744E-40DF-B0AA-10277399C933-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings
+s416440732.427536
+e416440732.434610
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj/SSToolkit.strings
+xResources/de.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/de.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings73836d9c61d2b841^ff426f9c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/de.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/de.lproj/SSToolkit.strings Resources/de.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/de.lproj -- Resources/de.lproj/SSToolkit.strings36"474CACC3-CEC3-4149-83FF-62C3F98C8C33-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings
+s416440732.427377
+e416440732.434942
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj/SSToolkit.strings
+xResources/en.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/en.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.stringsbc7a6d9c61d2b841^c1586f9c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/en.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/en.lproj/SSToolkit.strings Resources/en.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/en.lproj -- Resources/en.lproj/SSToolkit.strings36"B20A1FE5-2BB7-4524-BB08-953065127F22-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings
+s416440732.427679
+e416440732.435262
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj/SSToolkit.strings
+xResources/es.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/es.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.stringsfc8e6d9c61d2b841^0d6e6f9c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/es.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/es.lproj/SSToolkit.strings Resources/es.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/es.lproj -- Resources/es.lproj/SSToolkit.strings36"C406E3FF-3D71-47C3-B187-4C352163CAB1-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings
+s416440732.427997
+e416440732.435580
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj/SSToolkit.strings
+xResources/fr.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/fr.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings2eaa6d9c61d2b841^6f826f9c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/fr.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/fr.lproj/SSToolkit.strings Resources/fr.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/fr.lproj -- Resources/fr.lproj/SSToolkit.strings36"6D370CDE-B58E-4D92-B7A2-E973DF366526-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings
+s416440732.428331
+e416440732.439403
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj/SSToolkit.strings
+xResources/id.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/id.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.stringsedbc6d9c61d2b841^3d7d709c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/id.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/id.lproj/SSToolkit.strings Resources/id.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/id.lproj -- Resources/id.lproj/SSToolkit.strings36"37279847-FB7B-4A5F-82A6-E536E385A6A9-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings
+s416440732.428815
+e416440732.441085
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj/SSToolkit.strings
+xResources/it.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/it.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.stringse4d96d9c61d2b841^68eb709c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/it.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/it.lproj/SSToolkit.strings Resources/it.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/it.lproj -- Resources/it.lproj/SSToolkit.strings36"8F84533F-2D01-47AE-95F2-32C69335CAB7-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings
+s416440732.428920
+e416440732.441365
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj/SSToolkit.strings
+xResources/ja.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ja.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings4cdd6d9c61d2b841^7efd709c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/ja.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/ja.lproj/SSToolkit.strings Resources/ja.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ja.lproj -- Resources/ja.lproj/SSToolkit.strings36"391981F9-A250-49BB-9858-3348022348BD-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings
+s416440732.429505
+e416440732.441785
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj/SSToolkit.strings
+xResources/ko.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ko.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings7e006e9c61d2b841^4819719c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/ko.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/ko.lproj/SSToolkit.strings Resources/ko.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ko.lproj -- Resources/ko.lproj/SSToolkit.strings36"C69CED82-2188-4CFD-8EB6-DCA59AA104B9-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings
+s416440732.434767
+e416440732.442167
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj/SSToolkit.strings
+xResources/ms.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ms.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.stringsaf5c6f9c61d2b841^5132719c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/ms.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/ms.lproj/SSToolkit.strings Resources/ms.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ms.lproj -- Resources/ms.lproj/SSToolkit.strings36"658A8BED-8835-4DD0-87B4-A3D0AD3D2D63-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings
+s416440732.435087
+e416440732.442553
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj/SSToolkit.strings
+xResources/nl.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/nl.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings04746f9c61d2b841^404d719c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/nl.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/nl.lproj/SSToolkit.strings Resources/nl.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/nl.lproj -- Resources/nl.lproj/SSToolkit.strings36"D4863AEA-1F25-4485-83A9-BCFFA71014A5-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings
+s416440732.435842
+e416440732.494063
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj/SSToolkit.strings
+xResources/pt.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/pt.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.stringsf0a26f9c61d2b841^6f837e9c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/pt.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/pt.lproj/SSToolkit.strings Resources/pt.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/pt.lproj -- Resources/pt.lproj/SSToolkit.strings36"62B6F2D4-58EC-4CDB-8FFE-5EBEE8AFC333-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings
+s416440732.435402
+e416440732.442891
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings
+xResources/pt_PT.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy Resources/pt_PT.lproj/SSToolkit.strings111"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings98886f9c61d2b841^5f61719c61d2b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/pt_PT.lproj/SSToolkit.strings0000000000000000^631"CopyStringsFile SSToolkitResources.bundle/pt_PT.lproj/SSToolkit.strings Resources/pt_PT.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/pt_PT.lproj -- Resources/pt_PT.lproj/SSToolkit.strings36"12AB56B2-AE53-4F94-8261-EC1BCBF28BFE-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings
+s416440732.439503
+e416440732.494460
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj/SSToolkit.strings
+xResources/ru.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/ru.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.stringsc98f709c61d2b841^d0ec7e9c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/ru.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/ru.lproj/SSToolkit.strings Resources/ru.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/ru.lproj -- Resources/ru.lproj/SSToolkit.strings36"4D3DEBDE-7D14-42E3-8F42-432C6E911CCE-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings
+s416440732.441205
+e416440732.494099
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj/SSToolkit.strings
+xResources/sv.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Resources/sv.lproj/SSToolkit.strings105"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings11ff709c61d2b841^b7d37e9c61d2b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/sv.lproj/SSToolkit.strings0000000000000000^619"CopyStringsFile SSToolkitResources.bundle/sv.lproj/SSToolkit.strings Resources/sv.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/sv.lproj -- Resources/sv.lproj/SSToolkit.strings36"45B916BA-4806-41AA-82AB-2615474225B0-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings
+s416440732.441493
+e416440732.494077
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings
+xResources/zh_Hans.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hans.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.stringse717719c61d2b841^e5b57e9c61d2b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/zh_Hans.lproj/SSToolkit.strings0000000000000000^639"CopyStringsFile SSToolkitResources.bundle/zh_Hans.lproj/SSToolkit.strings Resources/zh_Hans.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hans.lproj -- Resources/zh_Hans.lproj/SSToolkit.strings36"175C832B-ACE6-42EE-BE52-EE97813AEB9B-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CCopyStringsFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings
+s416440732.441991
+e416440732.494241
+r1
+xCopyStringsFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings
+xResources/zh_Hant.lproj/SSToolkit.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy Resources/zh_Hant.lproj/SSToolkit.strings115"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.stringsa835719c61d2b841^c1e07e9c61d2b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/zh_Hant.lproj/SSToolkit.strings0000000000000000^639"CopyStringsFile SSToolkitResources.bundle/zh_Hant.lproj/SSToolkit.strings Resources/zh_Hant.lproj/SSToolkit.strings    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/zh_Hant.lproj -- Resources/zh_Hant.lproj/SSToolkit.strings36"0388758D-1AB3-486F-97B4-097EB4AEBE2B-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CProcessInfoPlistFile /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+s416440732.413470
+e416440732.426793
+r1
+xProcessInfoPlistFile
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist
+x/Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Process /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist97"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist48fd699c61d2b841^81426d9c61d2b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist0000000000000000^679"ProcessInfoPlistFile SSToolkitResources.bundle/Info.plist Resources/SSToolkitResources-Info.plist    cd /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/Resources/SSToolkitResources-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/SSToolkitResources.bundle/Info.plist36"4CD32B53-BE2E-404B-BBBD-245DA471D8FB-
+b6CD28524-39D3-4AE6-A1C7-3729ECC67A5D
+
+CTouch /Users/philip.starner/Source/Git/TPScrollViewTutorial/Pods/SSToolkit/./SSToolkitResources.bundle
+r0
+

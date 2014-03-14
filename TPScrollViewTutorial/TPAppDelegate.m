@@ -7,12 +7,16 @@
 //
 
 #import "TPAppDelegate.h"
+#import "SHKConfiguration.h"
+#import "TPSHKConfigurator.h"
 
 @implementation TPAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    DefaultSHKConfigurator *configurator = [[TPSHKConfigurator alloc] init];
+    [SHKConfiguration sharedInstanceWithConfigurator:configurator];
     return YES;
 }
 							

@@ -40,8 +40,6 @@
 	// Do any additional setup after loading the view, typically from a nib.
     self.navigationItem.leftBarButtonItem = self.editButtonItem;
 
-    UIBarButtonItem *addButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(insertNewObject:)];
-    self.navigationItem.rightBarButtonItem = addButton;
     self.detailViewController = (TPDetailViewController *)[[self.splitViewController.viewControllers lastObject] topViewController];
     
     if (isDataLocal) {
@@ -56,6 +54,8 @@
     [tpjson loadLocalJSON:^(NSString *jsonString) {
         self.yoyoBase = [[TPYBase alloc] initWithDictionary:[jsonString objectFromJSONString]];
         [self.tableView reloadData];
+        TPYYoyo *yoyo = (TPYYoyo *)[self.yoyoBase.yoyo objectAtIndex:0];
+        self.detailViewController.detailItem = yoyo;
     }];
 }
 
@@ -65,6 +65,9 @@
     [tpjson loadOnlineJSON:^(NSObject *jsonData) {
         self.yoyoBase = [[TPYBase alloc] initWithDictionary:(NSDictionary*)jsonData];
         [self.tableView reloadData];
+        
+        TPYYoyo *yoyo = (TPYYoyo *)[self.yoyoBase.yoyo objectAtIndex:0];
+        self.detailViewController.detailItem = yoyo;
     }];
 }
 
@@ -72,19 +75,6 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-}
-
-- (void)insertNewObject:(id)sender
-{
-    return;
-    /*
-    if (!_objects) {
-        _objects = [[NSMutableArray alloc] init];
-    }
-    [_objects insertObject:[NSDate date] atIndex:0];
-    NSIndexPath *indexPath = [NSIndexPath indexPathForRow:0 inSection:0];
-    [self.tableView insertRowsAtIndexPaths:@[indexPath] withRowAnimation:UITableViewRowAnimationAutomatic];
-     */
 }
 
 #pragma mark - Table View
@@ -114,8 +104,8 @@
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"Cell" forIndexPath:indexPath];
 
     UIImageView *imageView = (UIImageView*)[cell.contentView viewWithTag:3];
-    UIImage *image = [UIImage imageNamed:@"leosniper"];
-    [imageView setImage:image];
+    //UIImage *image = [UIImage imageNamed:@"leosniper"];
+    //[imageView setImage:image];
     
     TPYYoyo *yoyo = (TPYYoyo *)[self.yoyoBase.yoyo objectAtIndex:indexPath.row];
     TPYImage *yoyoImage = (TPYImage *)yoyo.image;

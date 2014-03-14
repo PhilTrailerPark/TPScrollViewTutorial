@@ -32,6 +32,7 @@
 		30CDCD2518C012BF0060F438 /* TPYMaterial.m in Sources */ = {isa = PBXBuildFile; fileRef = 30CDCD1F18C012BF0060F438 /* TPYMaterial.m */; };
 		30CDCD2618C012BF0060F438 /* TPYYoyo.m in Sources */ = {isa = PBXBuildFile; fileRef = 30CDCD2118C012BF0060F438 /* TPYYoyo.m */; };
 		30CDCD2B18C018B50060F438 /* TPJSONArrayNetworkRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 30CDCD2A18C018B50060F438 /* TPJSONArrayNetworkRequest.m */; };
+		30E433E918D2717A00CD95FF /* TPSHKConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 30E433E818D2717A00CD95FF /* TPSHKConfigurator.m */; };
 		59EAA8FFD2594632B270871E /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F0266057AEB44F7F8CAB734D /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -46,6 +47,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3039AD7E18D242D70000A37C /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		3039AD8018D242DE0000A37C /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		3039AD8218D242E60000A37C /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		30554EEE18BBC10300834F71 /* TPScrollViewTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TPScrollViewTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		30554EF118BBC10300834F71 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		30554EF318BBC10300834F71 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -86,6 +90,8 @@
 		30CDCD2118C012BF0060F438 /* TPYYoyo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPYYoyo.m; sourceTree = "<group>"; };
 		30CDCD2918C018B50060F438 /* TPJSONArrayNetworkRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPJSONArrayNetworkRequest.h; sourceTree = "<group>"; };
 		30CDCD2A18C018B50060F438 /* TPJSONArrayNetworkRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPJSONArrayNetworkRequest.m; sourceTree = "<group>"; };
+		30E433E718D2717A00CD95FF /* TPSHKConfigurator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPSHKConfigurator.h; sourceTree = "<group>"; };
+		30E433E818D2717A00CD95FF /* TPSHKConfigurator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPSHKConfigurator.m; sourceTree = "<group>"; };
 		AC126C306F2A42A886BC59B1 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		F0266057AEB44F7F8CAB734D /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -138,6 +144,9 @@
 		30554EF018BBC10300834F71 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				3039AD8218D242E60000A37C /* Security.framework */,
+				3039AD8018D242DE0000A37C /* MessageUI.framework */,
+				3039AD7E18D242D70000A37C /* SystemConfiguration.framework */,
 				30554EF118BBC10300834F71 /* Foundation.framework */,
 				30554EF318BBC10300834F71 /* CoreGraphics.framework */,
 				30554EF518BBC10300834F71 /* UIKit.framework */,
@@ -153,6 +162,8 @@
 				30C5113918BC28CD004E4275 /* Constants.h */,
 				30554F0018BBC10300834F71 /* TPAppDelegate.h */,
 				30554F0118BBC10300834F71 /* TPAppDelegate.m */,
+				30E433E718D2717A00CD95FF /* TPSHKConfigurator.h */,
+				30E433E818D2717A00CD95FF /* TPSHKConfigurator.m */,
 				30CDCD1518C012730060F438 /* networking */,
 				30C74D2B18B6AADA00959092 /* iPad */,
 				30C74D2C18B6AADA00959092 /* iPhone */,
@@ -196,10 +207,10 @@
 			isa = PBXGroup;
 			children = (
 				30554F0618BBC10300834F71 /* Main_iPad.storyboard */,
-				3092402418B6AC6A002A981C /* TPDetailViewController.h */,
-				3092402518B6AC6A002A981C /* TPDetailViewController.m */,
 				3092402618B6AC6A002A981C /* TPMasterViewController.h */,
 				3092402718B6AC6A002A981C /* TPMasterViewController.m */,
+				3092402418B6AC6A002A981C /* TPDetailViewController.h */,
+				3092402518B6AC6A002A981C /* TPDetailViewController.m */,
 			);
 			path = iPad;
 			sourceTree = "<group>";
@@ -321,6 +332,7 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
 			);
 			mainGroup = 30554EE518BBC10300834F71;
 			productRefGroup = 30554EEF18BBC10300834F71 /* Products */;
@@ -396,6 +408,7 @@
 			files = (
 				30CDCD2518C012BF0060F438 /* TPYMaterial.m in Sources */,
 				30554F0218BBC10300834F71 /* TPAppDelegate.m in Sources */,
+				30E433E918D2717A00CD95FF /* TPSHKConfigurator.m in Sources */,
 				30CDCD2218C012BF0060F438 /* TPYBase.m in Sources */,
 				3092402F18B6AC78002A981C /* TPUIViewController_iPhone.m in Sources */,
 				30CDCD2618C012BF0060F438 /* TPYYoyo.m in Sources */,

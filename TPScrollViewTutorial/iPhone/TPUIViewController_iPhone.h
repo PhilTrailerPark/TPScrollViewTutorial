@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TPYYoyo.h"
 
 @interface TPUIViewController_iPhone : UIViewController <UICollectionViewDataSource>
 
@@ -17,5 +18,6 @@
 @property (strong, nonatomic) IBOutlet UITextView *detailText;
 @property (retain, nonatomic) IBOutlet UICollectionView * collectionView;
 @property (retain, nonatomic) IBOutlet UICollectionViewFlowLayout * flowLayout;
+@property (strong, nonatomic) TPYYoyo *yoyoObject;
 
 @end

@@ -7,10 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TPYYoyo.h"
 
 @interface TPDetailViewController : UIViewController <UISplitViewControllerDelegate>
 
 @property (strong, nonatomic) id detailItem;
+@property (strong, nonatomic) TPYYoyo *yoyoObject;
 @property (strong, nonatomic) IBOutlet UIImageView *imageView;
 @property (strong, nonatomic) IBOutlet UITextView *textView;
 @property (strong, nonatomic) IBOutlet UILabel *titleLabel;

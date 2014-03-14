@@ -15,10 +15,13 @@
 #import "AFHTTPRequestOperation.h"
 #import "JSONKit.h"
 #import "TPJSONArrayNetworkRequest.h"
+#import "ShareKit.h"
 
 static NSString * cellIdentifier = @"CellIdentifier";
 
 @interface TPUIViewController_iPhone () <TPScrollingCellDelegate, UIScrollViewDelegate>
+@property (strong, nonatomic) IBOutlet UIButton *shareButton;
+- (IBAction)onShare:(id)sender;
 
 @property (strong) TPYBase *yoyoBase;
 @end
@@ -123,6 +126,7 @@ static NSString * cellIdentifier = @"CellIdentifier";
     
     self.detailView.backgroundColor = cell.color;
     TPYYoyo *yoyo = (TPYYoyo *)cell.dataObject;
+    self.yoyoObject = yoyo;
     TPYImage *yoyoImage = (TPYImage *)yoyo.image;
     [_detailImage setImage:cell.imageView.image];
     [_detailImage setImageWithURL:[NSURL URLWithString:yoyoImage.large]
@@ -166,4 +170,36 @@ static NSString * cellIdentifier = @"CellIdentifier";
 -(UIColor *) randomColor {
     return [UIColor colorWithRed:(random()%100)/(float)100 green:(random()%100)/(float)100 blue:(random()%100)/(float)100 alpha:1];
 }
+
+- (IBAction)onShare:(id)sender {
+    SHKItem *item = nil;
+    if (TRY_ENHANCED_URL_SHARE) {
+        NSString *pageTitle = self.yoyoObject.name;
+        TPYImage *yoyoImage = (TPYImage *)self.yoyoObject.image;
+        
+        item = [SHKItem URL:[NSURL URLWithString:yoyoImage.large] title:self.yoyoObject.name contentType:SHKURLContentTypeImage];
+        item.URL = [NSURL URLWithString:yoyoImage.large];
+        item.title = pageTitle;
+        item.URLPictureURI = [NSURL URLWithString:yoyoImage.large];
+        item.URLDescription = self.yoyoObject.yoyoDescription;
+        item.tags = [NSArray arrayWithObjects:self.yoyoObject.name,self.yoyoObject.manufacturer, nil];
+        
+        // bellow are examples how to preload SHKItem with some custom sharer specific settings. You can prefill them ad hoc during each particular SHKItem creation, or set them globally in your configurator, so that every SHKItem is prefilled with the same values. More info in SHKItem.h or DefaultSHKConfigurator.m.
+        item.mailToRecipients = [NSArray arrayWithObjects:@"philip.starner@trailerpark.com", nil];
+        item.textMessageToRecipients = [NSArray arrayWithObjects: @"581347615", @"581344543", nil];
+        
+    } else {
+        
+        NSString *pageTitle = self.yoyoObject.name;
+        
+        TPYImage *yoyoImage = (TPYImage *)self.yoyoObject.image;
+        item = [SHKItem URL:[NSURL URLWithString:yoyoImage.large] title:pageTitle contentType:SHKURLContentTypeWebpage];
+    }
+    
+	SHKActionSheet *actionSheet = [SHKActionSheet actionSheetForItem:item];
+    [SHK setRootViewController:self];
+    [actionSheet showInView:_detailView];
+	//[actionSheet showFromToolbar:self.navigationController.toolbar];
+}
+
 @end
